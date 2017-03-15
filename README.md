@@ -1,3 +1,2 @@
-# madisonrightnow.com
-madisonrightnow.com
-edited
+# MadisonRightNow.com
+All the code that powers madisonrightnow.com
