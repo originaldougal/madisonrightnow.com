@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/templates/city3fluid.dwt" codeOutsideHTMLIsLocked="false" -->
+    <head><script type="text/javascript" src="/cfscripts/cfform.js"></script>
+<script type="text/javascript" src="/cfscripts/masks.js"></script>
+
+	<!-- InstanceBeginEditable name="Title" -->
+<title>Declared Snow Emergency - Winter - Residents - City of Madison, Wisconsin</title>
+<!-- InstanceEndEditable -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+
+
+<link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
+<link href="/css/city3fluid.css" rel="stylesheet" type="text/css">
+<link href="/css/print3.css" rel="stylesheet" type="text/css" media="print">
+	<!-- InstanceBeginEditable name="Head" -->
+<link href="/css/winter3fluid.css" rel="stylesheet" type="text/css">
+
+<!-- InstanceEndEditable -->
+    <script type="text/javascript">
+<!--
+    _CF_checksubscribe = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+    <body>
+        <div class="content">
+            <style>
+html { letter-spacing: 0.01em; }
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	html { letter-spacing: .25px; }
+}
+/* Remove external link indications in global nav */
+	.globalnav a[href^="http"], .globalnav a[href^="//"] {
+    background-image: none;
+}
+	.navbar-inverse.globalnav {
+		border-width: 0;
+	}
+	.globalnav.navbar {
+		height: 50px;
+	}
+	.globalnav.navbar .navbar-inner {
+		background: #222222;
+		background: -moz-linear-gradient(top, #222222 0%, #222222 40%, #222222 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#222222), color-stop(40%,#222222), color-stop(100%,#222222));
+		background: -webkit-linear-gradient(top, #222222 0%,#222222 40%,#222222 100%);
+		background: -o-linear-gradient(top, #222222 0%,#222222 40%,#222222 100%);
+		background: -ms-linear-gradient(top, #222222 0%,#222222 40%,#222222 100%);
+		background: linear-gradient(to bottom, #222222 0%,#222222 40%,#222222 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222222', endColorstr='#222222',GradientType=0 );
+		border: none;
+		border-radius: 0 0 0 0;
+		border-width: 0;
+	}
+	.navbar .navbar-inner {
+		border-width: 0;
+	}
+	.navbar .navbar-inner a.brand {
+		margin: 0;
+		padding: 4px 0 0 0;
+		margin-right: 29px;
+		margin-left: 10px;
+		width: auto;
+	}
+	.navbar-inverse .navbar-inner a.brand span {
+		margin-top: 4px;
+		color: #aaa;
+		font-size: 17px;
+		line-height: 18px;
+	}
+	.navbar-inverse .navbar-inner a.brand:hover,
+	.navbar-inverse .navbar-inner a.brand:hover span {
+		background-color: transparent;
+		color: #fff;
+	}
+	.globalnav.navbar .nav li {
+		padding: 0;
+	}
+	.globalnav.navbar .nav li a {
+		color: #aaa;
+		font-size: 14px;
+		padding: 15px 18px;
+	}
+	@media (min-width: 992px) {
+		.globalnav.navbar .nav li a {
+			padding: 15px 13px;
+		}
+	}
+	@media (min-width: 1200px) {
+		.globalnav.navbar .nav li a {
+			padding: 15px 30px;
+		}
+	}
+	.navbar-inverse .nav li:hover, .navbar-inverse a.brand:hover {
+    background-color: #222 !important;
+		color: #fff;
+	}
+	.globalnav.navbar-inverse .nav li.dropdown > .dropdown-toggle .caret {
+		opacity: .8;
+	}
+	.globalnav.navbar-inverse .nav li.dropdown > .dropdown-toggle:hover .caret {
+		opacity: 1;
+	}
+	.navbar-inverse .nav .dropdown.open {
+    background-color: #000;
+	}
+	.navbar-inverse .nav .dropdown .dropdown-menu {
+    background-color: #fff;
+		min-width: 225px;
+	}
+	.navbar-inverse .nav .dropdown .dropdown-menu li a {
+    background-color: #222;
+		color: #aaa;
+    filter: none;
+	}
+	.navbar-inverse .nav .dropdown .dropdown-menu.dropdown-menu li > a:hover, .navbar-inverse .nav .dropdown .dropdown-menu.dropdown-menu li > a:focus, .navbar-inverse .nav .dropdown .dropdown-menu.dropdown-submenu:hover > a {
+		background-color: #000;
+		color: #fff;
+	}
+	/* Search */
+	.navbar-search {
+		height: 36px;
+		margin: 4px 34px 0 0;
+	}
+	.navbar-inverse .navbar-search .search-query {
+		background-color: #fff;
+		width: 153px;
+		padding-left: 12px;
+		border-color: #ccc;
+		border-right: none;
+	}
+	.navbar-inverse .navbar-search .search-query:focus,
+	.navbar-inverse .navbar-search .search-query.focused {
+		width: 153px;
+		border: 1px solid #66afe9;
+		outline: 0;
+		box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,0.6);
+	}
+	/* Adjust width of search field for IE */
+	@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+		.navbar-inverse .navbar-search .search-query {
+			width: 138px;
+		}
+		.navbar-inverse .navbar-search .search-query:focus,
+		.navbar-inverse .navbar-search .search-query.focused {
+			width: 138px;
+		}
+	}
+	.navbar-search .search-query {
+		margin-top: -1px;
+		border-radius: 4px 0 0 4px;
+	}
+	.navbar-inverse .search-query {
+		padding-top: 6px;
+		padding-bottom: 6px;
+	}
+	.navbar-inverse .navbar-search .placeholder {
+		color: #999;
+		font-size: 14px;
+	}
+	.navbar-inverse .navbar-search .search-query:focus, .navbar-inverse .navbar-search .search-query.focused {
+    margin-top: -1px;
+
+		padding-top: 6px;
+		padding-bottom: 6px;
+	}
+	.navbar-search .btn {
+		margin-top: 4px;
+		margin-left: -5px;
+		padding: 6px 12px;
+		border-radius: 0 4px 4px 0;
+	}
+</style>
+
+<div class="navbar globalnav navbar-inverse no-print">
+	<div class="navbar-inner">
+    	<div class="container">
+
+            <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".main-collapse">
+                Search Menu
+                <span class="bars">
+                    <span class="icon-bar"></span> 
+                    <span class="icon-bar"></span> 
+                    <span class="icon-bar"></span>
+                </span>
+            </a>
+
+            <a class="brand" href="/">
+            	
+                <span class="logo copy-city"><strong>City of<br />Madison</strong></span>
+            </a>
+
+            <div class="nav-collapse main-collapse">
+                <ul class="nav">
+
+                    <li class="dropdown city-accounts">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="http://www.cityofmadison.com/accounts">Accounts <i class="caret"></i></a>
+                        <ul class="dropdown-menu">
+                        	<li><a href="http://www.cityofmadison.com/accounts">All Accounts</a></li>
+                            <li><a href="https://my.cityofmadison.com/">My Account</a></li>              
+                            <li><a href="https://www.cityofmadison.com/epayment/">ePayments</a></li>
+                            <li><a href="https://mywater.cityofmadison.com/">Water Customer Care</a></li>
+                            <li><a href="http://www.cityofmadison.com/HR">Employment</a></li>
+                            <li><a href="https://elam.cityofmadison.com/citizenaccess">Licenses &amp; Permits</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li class="city-services">
+                        <a href="http://www.cityofmadison.com/services/">Services</a>
+                    </li>
+
+                    <li class="jobs">
+                        <a href="http://www.cityofmadison.com/HR">Jobs</a>
+                    </li>
+
+                    <li class="dropdown city-agencies">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="http://www.cityofmadison.com/agencies/">Agencies <i class="caret"></i></a>
+                        <ul class="dropdown-menu overflow">
+                            <li><a href="http://www.cityofmadison.com/agencies/">All Agencies</a></li>
+                            <li><a href="http://www.cityofmadison.com/assessor">Assessor</a></li>
+                            <li><a href="http://www.cityofmadison.com/attorney">Attorney</a></li>
+                            <li><a href="http://www.cityofmadison.com/dpced/bi">Building Inspection</a></li>
+                            <li><a href="http://www.cityofmadison.com/dcr">Civil Rights</a></li>
+                            <li><a href="http://www.cityofmadison.com/clerk">Clerk</a></li>
+                            <li><a href="http://www.cityofmadison.com/council">Common Council</a></li>
+                            <li><a href="http://www.cityofmadison.com/dpced/communitydevelopment">Community Development</a></li>
+                            <li><a href="http://www.cityofmadison.com/dpced/economicdevelopment">Economic Development</a></li>
+                            <li><a href="http://www.cityofmadison.com/engineering">Engineering</a></li>
+                            <li><a href="http://www.cityofmadison.com/finance">Finance</a></li>
+                            <li><a href="http://www.cityofmadison.com/fire">Fire</a></li>
+                            <li><a href="http://www.cityofmadison.com/parks/golf">Golf</a></li>
+                            <li><a href="http://www.cityofmadison.com/parks/pool">Goodman Pool</a></li>
+                            <li><a href="http://www.cityofmadison.com/dpced/housing">Housing Authority</a></li>
+                            <li><a href="http://www.cityofmadison.com/hr">Human Resources</a></li>
+                            <li><a href="http://www.cityofmadison.com/it">Information Technology</a></li>
+                            <li><a href="http://www.cityofmadison.com/citychannel">Madison City Channel</a></li>
+                            <li><a href="http://www.madisonpubliclibrary.org">Madison Public Library</a></li>
+                            <li><a href="http://www.cityofmadison.com/seniorcenter">Madison Senior Center</a></li>
+                            <li><a href="http://www.cityofmadison.com/mayor">Mayor&#039;s Office</a></li>
+                            <li><a href="http://www.cityofmadison.com/metro">Metro Transit</a></li>
+                            <li><a href="http://www.mononaterrace.com">Monona Terrace</a></li>
+                            <li><a href="http://www.cityofmadison.com/municipalcourt">Municipal Court</a></li>
+                            <li><a href="http://www.cityofmadison.com/dpced/economicdevelopment/office-of-business-resources/223">Office of Business Resources</a></li>
+                            <li><a href="http://www.cityofmadison.com/dpced/economicdevelopment/office-of-economic-revitalization/222">Office of Economic Revitalization</a></li>
+                            <li><a href="http://www.cityofmadison.com/dpced/economicdevelopment/real-estate-services-/401">Office of Real Estate Services</a></li>
+                            <li><a href="http://www.olbrich.org">Olbrich Botanical Gardens</a></li>
+                            <li><a href="http://www.cityofmadison.com/parking-utility">Parking Utility</a></li>
+                            <li><a href="http://www.cityofmadison.com/parks">Parks</a></li>
+                            <li><a href="http://www.cityofmadison.com/dpced/planning/">Planning</a></li>
+                            <li><a href="http://www.cityofmadison.com/dpced">Planning, Community &amp; Economic Development</a></li>
+                            <li><a href="http://www.cityofmadison.com/police">Police</a></li>
+                            <li><a href="http://www.publichealthmdc.com">Public Health Madison &amp; Dane County</a></li>
+                            <li><a href="http://www.cityofmadison.com/business/pw">Public Works</a></li>
+                            <li><a href="http://www.cityofmadison.com/streets">Streets &amp; Recycling</a></li>
+                            <li><a href="http://www.cityofmadison.com/trafficengineering">Traffic Engineering</a></li>
+                            <li><a href="http://www.cityofmadison.com/treasurer">Treasurer</a></li>
+                            <li><a href="http://www.cityofmadison.com/parks/wpcrc">Warner Park Community Recreation Center</a></li>
+                            <li><a href="http://www.cityofmadison.com/water">Water Utility</a></li>
+                        </ul>
+                    </li>
+                    
+                    <li class="city-data">
+                        <a href="http://www.cityofmadison.com/data">Data</a>
+                    </li>
+                    
+                    <li class="dropdown city-contact">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="http://www.cityofmadison.com/contact/">Contact <i class="caret"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.cityofmadison.com/mayor/">Mayor</a></li>
+                            <li><a href="http://www.cityofmadison.com/council/contact/">City Council</a></li>              
+                            <li><a href="http://www.cityofmadison.com/contact/">City Staff &amp; Agencies</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+                
+                  
+                    
+                    <form class="navbar-search pull-right" id="gsa-search-form-basic" accept-charset="UTF-8" method="post" action="/search/"  novalidate="true">
+            	
+                        <input type="text" class="search-query"  name="search_keys" id="edit-search-keys"  rel="Search" alt="Enter your keywords to search" placeholder="Search" title="Search City Site" maxlength="256" width="160">
+                        
+                        <button type="submit" class="btn" aria-label="Search"><i class="icon-search"></i></button>
+                        <input type="hidden" value="form-H2TXfcaVjDvzy4FL2Naca5E-aCn62Ih0x31YPoObIlA" name="form_build_id">
+                        <input type="hidden" value="gsa_search_form_basic" name="form_id">
+                    </form>              
+                
+			</div>
+
+        </div>
+    </div>
+</div> <div class="banner">
+    <div class="container">
+        <div class="span6 pull-left banner-logo">
+            <a href="/residents/winter">
+                <img src="/residents/winter/images/bannerlogo.png" alt="City of Madison Winter" />
+            </a>
+        </div>
+        <div class="pull-right banner-feature">
+            <div class="left"> </div>
+                <div class="feature">
+                    <span class="city3-tooltip">
+                    	<img alt="Photo Credit" src="/city3/images/camera15px.png" height="17" width="17" />
+                        <span class="info">
+                        	<div class="arrow-tooltip"></div>
+                            Photo Credit: 
+                            <strong>Archie Nicolette</strong>
+                        </span>
+                    </span>
+                </div>
+            <div class="right"> </div>
+        </div>
+    </div>
+</div> 
+            <div class="container">
+                
+            <!-- InstanceBeginEditable name="Breadcrumbs" -->
+                <div class="row-fluid breadcrumbs">
+                    <div class="span12">
+                        <a href="/">City of Madison</a>
+                        <a href="/live-work">Residents</a>
+                        <a href="/residents/winter">Winter</a>
+                        <a href="/residents/winter/parking">Parking</a>
+                        <a href="/residents/winter/parking/DeclaredSnowEmergency.cfm">Declared Snow Emergency</a>
+                        <div class="pull-right addthis-wrap">
+                            <!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style">
+    <a class="addthis_counter addthis_pill_style"></a>
+    <a class="addthis_button_email"></a>
+    <a class="addthis_button_facebook"></a>
+    <a class="addthis_button_twitter"></a>
+    <a class="addthis_button_print"></a>
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4ffdba8e685aa0d0"></script>
+<!-- AddThis Button END -->
+
+                        </div>
+                    </div>
+                </div>
+            <!-- InstanceEndEditable -->
+            <!-- InstanceBeginEditable name="Content" -->
+<div class="row">
+    
+	<div class="span8">
+		
+        
+        
+
+        <h1>Declared Snow Emergency Rules</h1>
+        <ul>
+            <li>A Declared Snow Emergency is when snow accumulates to 3" or  more and all the streets in the downtown <a href="SEZ.cfm">Snow Emergency Zone</a> must be  plowed. </li>
+            <li><strong>When this occurs, people who park in the Snow Emergency Zone must  abide by the <a href="/residents/Winter/Parking/alternateSideParking.cfm">alternate side parking rules </a> for a minimum of the next two nights.</strong></li>
+            <li>A Snow Emergency is declared whenever it becomes necessary to plow ALL residential streets. </li>
+            <li>A Snow Emergency will always be declared prior to 9 p.m. if it is to take effect that night.</li>
+            <li>If conditions warrant, a Snow Emergency can be extended beyond the 48 hours.</li>
+            <li>A Snow Emergency is a City-wide policy. </li>
+        </ul>
+        <p><strong>Please note</strong>: <em>During a Snow Emergency, if you violate the Alternate Side Parking rules, the fines  are $60, plus a $65 towing fee.</em></p>
+    	
+        <div class="clearfix">
+            <h2>Don't let  the snow lead to a ticket or a tow!</h2>
+            <ul class="connect">
+                <li class="text">Sign up to get notified via <a href="http://my.cityofmadison.com/">Text Messaging</a></li>
+                <li class="email">Sign up to get notified via email lists  </li>
+                <li class="phone">Call the Winter Parking Hotline at <span style="display:inline-block">(608) 261-9111</span></li>
+                <li class="facebook"><a href="http://www.facebook.com/cityofmadisonwinter" target="_blank">Find us on Facebook</a></li>
+                <li class="twitter"><a href="http://www.twitter.com/madisonwinter" target="_blank">Follow us on Twitter</a></li>
+            </ul>
+        </div>
+            
+		
+        
+    
+        <div class="clearfix">
+        
+            <h2>Subscribe to Email List</h2>
+            
+            
+            <div class="">Subscribe to the Declared Snow Emergency email list:</div> <form name="subscribe" id="subscribe" action="&#x2f;residents&#x2f;winter&#x2f;parking&#x2f;declaredSnowEmergency.cfm" method="post" class="form-horizontal" onsubmit="return _CF_checksubscribe(this)"><input name="emailsubscribe" type="text" maxlength="100"  id="email-subscribe-input"  class="span3"  />
+                    
+                    
+					<div id="opt-out-wrapper">
+                        <p style="margin:10px 0;">By participating on this list the Wisconsin Public Records Laws may subject your email address to disclosure to third parties. By selecting &quot;Yes&quot; you are requesting that we treat your email address that you have provided to this list  as confidential and you are also stating that you would not participate in this service if the City is obligated to release your email address to such third party requesters.</p>
+						<label for="optout-yes" class="radio" style="margin-bottom:10px;">
+                        	<input type="radio" name="optout" value="1" id="optout-yes" checked> <strong>Yes</strong>, keep my information confidential.
+                        </label>
+						<label for="optout-no" class="radio" style="margin-bottom:10px;">
+	                        <input type="radio" name="optout" value="0" id="optout-no"> <strong>No</strong>, do <strong><em>not</em></strong> keep my information confidential.
+                        </label>
+						<button type="submit" name="emailsubscribesubmit" class="btn">Subscribe</button>
+                    </div>
+					
+					
+<script type="text/javascript">
+var input = document.querySelector('#email-subscribe-input');
+var optOutText = document.querySelector('#opt-out-wrapper');
+// Hide the opt out text on initial load
+optOutText.style.display = "none";
+// Listen for input on our field
+showOptOut = function()
+{
+	// Show the opt out text.
+	optOutText.style.display = "block";
+}
+if (input.addEventListener) {
+    input.addEventListener("input", showOptOut, false);
+}
+else {
+	// Needed for IE8
+    input.attachEvent("onclick", showOptOut);
+}
+</script>
+</form>
+
+        
+        </div>   
+    
+     
+						
+	</div>
+			
+	<div class="span4">
+	
+        <div class="clearfix">
+    
+			
+			<div class="outline_box_image"><a href="http://www.cityofmadison.com/residents/winter/parking/declaredSnowEmergency.cfm" target="_blank"><img src="/residents/winter/images/SnowEmergencyNo.jpg" alt="Declared Snow Emergency - No"></a></div>    
+		
+</div>
+
+<div class="list">
+    <h1><a href="/residents/winter/parking">
+        Winter Parking
+    </a></h1>      
+    <ul class="link-list navigation">
+        <li><a href="/residents/winter/parking/alternateSideParking.cfm">
+            <i class="icon-asp"></i> Alternate Side Parking Rules
+        </a></li>
+        <li><a href="/residents/winter/parking/declaredSnowEmergency.cfm">
+            <i class="icon-dse"></i> Declared Snow Emergency Rules 
+        </a></li>
+        <li><a href="/residents/winter/parking/SEZ.cfm">
+            <i class="icon-sez"></i> Snow Emergency Zone Location &amp; Rules 
+        </a></li>
+        <li><a href="/residents/winter/parking/WhereDoIPark.cfm">
+            <i class="icon-wheretopark"></i> Where Do I Park? App
+        </a></li>
+        <li><a href="/residents/winter/parking/avoidTicket.cfm">
+            <i class="icon-tow"></i> Avoid a Ticket and/or a Tow
+        </a></li>
+        <li><a href="/residents/winter/parking/faqs.cfm">
+            <i class="icon-faq"></i> Winter Parking FAQs
+        </a></li>
+    </ul>
+</div> <h1><a href="/residents/winter/snowIce">
+    Street Snow Removal &amp; Transportation
+</a></h1> <h1><a href="/residents/winter/snowIce/snowrules.cfm">
+    Sidewalk Snow Removal
+</a></h1> <h1><a href="/residents/winter/residents">
+    Residents
+</a></h1> <h1><a href="/parks/">
+   Fun Winter Activities
+</a></h1> <div class="well socialmedia">
+    <h3>Stay Informed</h3>
+    <ul class="connect">
+    	<li class="phone">
+            Call the Winter Parking Hotline: <span style="display:inline-block">(608) 261-9111</span>
+        </li>
+        <li class="text"><a href="/residents/winter/parking/declaredSnowEmergency.cfm">
+            Declared Snow Emergency Text / Email Updates
+        </a></li>
+        <li class="text"><a href="/residents/winter/SnowIce/snowPlowUpdates.cfm">
+            Receive Snow Plow Updates
+        </a></li>
+        <li class="email"><a href="/residents/winter/snowIce/snowrules.cfm">
+            Sidewalk Snow Removal Email Alerts
+        </a></li>
+        <li class="rss"><a href="/cityhall/mediaCenter.cfm">
+            RSS Feeds
+        </a></li>
+        <li class="facebook"><a href="http://www.facebook.com/cityofmadisonwinter" target="_blank">
+            Winter Facebook
+        </a></li>
+        <li class="twitter"><a href="http://twitter.com/madisonwinter" target="_blank">
+            Winter Twitter
+        </a></li>
+        
+    </ul>
+    
+</div>	
+    
+	</div>
+</div>
+		<!-- InstanceEndEditable -->
+            </div>
+            <div class="spacer"> </div>
+        </div>
+        <div class="footer no-print">
+	<div class="container">
+
+    	
+
+        
+<ul class="copyright">
+    <li>Copyright &copy; 1995-2017 <a href="http://www.cityofmadison.com">City of Madison, WI</a></li>
+ 	<li><A href="https://www.cityofmadison.com/form/website-contact-form">Contact Webmaster</A></li>
+    
+    <li><A href="http://www.cityofmadison.com/policy/accessibility">Accessibility</A></li>
+    <li><A href="http://www.cityofmadison.com/policy/conditions">Conditions &amp; Use</A></li>
+    <li><A href="http://www.cityofmadison.com/policy/privacy">Privacy Policy</A></li>
+    <li><A href="http://www.cityofmadison.com/policy/security">Security Policy</A></li>
+    <li><A href="http://www.cityofmadison.com/policy/data">Data Policy</A></li>
+</ul>
+
+
+    </div>
+</div> 
+
+        <script src="/js/bootstrap.min.js"></script>
+		<script src="/js/respond.src.js"></script>
+		<script src="/js/custom3fluid.js"></script>
+		<!-- InstanceBeginEditable name="End" -->
+        <!-- InstanceEndEditable -->
+        
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-6999863-6");
+    pageTracker._setDomainName(".cityofmadison.com");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+    <script type="text/javascript" src="/js/GoogleAnalyticsLinkTracking.js"></script>
+
+    </body>
+<!-- InstanceEnd --></html>

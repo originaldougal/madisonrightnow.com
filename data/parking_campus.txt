@@ -1,0 +1,667 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<link href="../css/main_template.css" type="text/css" rel="Stylesheet" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57342340-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<title>
+	Lot Information - Garage/Ramp Occupancy
+</title></head>
+<body>
+    
+    <a id="FaqTop"></a>
+	<table class="top-center-block" border="0" cellspacing="0">
+        <!-- The Top Header-->
+        <tr>
+            <td>
+            <a href="../home.aspx"><div id="top-head"></div></a>
+            </td>
+        </tr>
+    </table>
+    <!-- the top navi bar-->
+    <div id="sub-navi-hdr">
+        <div id="top-navi">
+            <div>
+                <div id="main-navi">
+                    <ul id="navi-list">
+                        <li class="navi-list">
+                            <div class="lnk-holder">
+                                <a href="../home.aspx" class="navi-lnk">Home</a></div>
+                            <!-- sub navi bar-->
+                            <div class="sub-navi-hdr">
+                                <a class="sub-navi-lnk" href="../home/aboutus.aspx">About&nbsp;Us</a> 
+				<a class="sub-navi-lnk" href="../home/tools.aspx">Quick&nbsp;Tools</a>
+				<a class="sub-navi-lnk" href="../home/contact.aspx">Contact</a>
+                                <a class="sub-navi-lnk" href="../parking/parking.aspx">Parking</a> 
+				<a class="sub-navi-lnk" href="../transportation/transportation.aspx">Transportation</a>
+                                <a class="sub-navi-lnk" href="../resources/resources.aspx">Resources</a> 
+				
+                            </div>
+                        </li>
+                        <li class="navi-list">
+                            <div class="lnk-holder">
+                                <a href="../home/aboutus.aspx" class="navi-lnk">About&nbsp;Us</a></div>
+                            <div class="sub-navi-hdr">
+                                <a class="sub-navi-lnk" href="../home/mission.aspx">Mission</a> 
+				<a class="sub-navi-lnk" href="../home/financial.aspx">Funding&nbsp;Sources&nbsp;&&nbsp;Uses</a> 
+				<a class="sub-navi-lnk" href="../home/program_info.aspx">Program&nbsp;Info</a> 
+				
+                            </div>
+                        </li>
+                        <li class="navi-list">
+                            <div class="lnk-holder">
+                                <a href="../home/contact.aspx" class="navi-lnk">Contact</a>
+                            </div>
+                            <div class="sub-navi-hdr">
+                                <a class="sub-navi-lnk" href="../home/contact_offices.aspx">Office&nbsp;Locations</a>
+                                <a class="sub-navi-lnk" href="../home/contact_staff.aspx">Staff&nbsp;Listing</a>
+                                <a class="sub-navi-lnk" href="../forms/feedback.aspx">Submit&nbsp;Feedback</a>
+				<a class="sub-navi-lnk" href="../home/contact_utc.aspx">Unit&nbsp;Coordinators</a>
+				<a class="sub-navi-lnk" href="../home/contact_committee.aspx">Transportation&nbsp;Committee</a>
+                            </div>
+                        </li>
+                        <li class="navi-list">
+                            <div class="lnk-holder">
+                                <a href="../parking/parking.aspx" class="navi-lnk">Parking</a></div>
+                            <div class="sub-navi-hdr">
+                                <a class="sub-navi-lnk" href="../parking/permit.aspx">Permit</a> 
+				<a class="sub-navi-lnk" href="../parking/visitor.aspx">Visitor</a>
+                                <a class="sub-navi-lnk" href="../parking/event.aspx">Event</a> 
+				<a class="sub-navi-lnk" href="../parking/permit_disabled.aspx">Disabled</a>
+				<a class="sub-navi-lnk" href="../parking/lotinfo.aspx">Parking&nbsp;Lots</a>
+                                <a class="sub-navi-lnk" href="../resources/citation.aspx">Violations/Fees</a> 
+				<a class="sub-navi-lnk" href="../parking/parking.aspx">More&nbsp;Parking&nbsp;Info</a>
+                            </div>
+                        </li>
+                        <li class="navi-list">
+                            <div class="lnk-holder">
+                                <a href="../transportation/transportation.aspx" class="navi-lnk">Transportation</a></div>
+                            <div class="sub-navi-hdr">
+                                <a class="sub-navi-lnk" href="../transportation/bus.aspx">Bus</a> 
+				<a class="sub-navi-lnk" href="../transportation/bike.aspx">Bike</a> 
+				<a class="sub-navi-lnk" href="../transportation/carpool.aspx">Carpool</a> 
+				<a class="sub-navi-lnk" href="../transportation/vanpool.aspx">Vanpool</a> 
+				<a class="sub-navi-lnk" href="../transportation/safeservices.aspx">SAFE&nbsp;Nighttime&nbsp;Services</a>
+                                <a class="sub-navi-lnk" href="../transportation/transportation.aspx">More&nbsp;Transportation&nbsp;Info</a>
+                            </div>
+                        </li>
+                        <li class="navi-list">
+                            <div class="lnk-holder">
+                                <a href="../resources/resources.aspx" class="navi-lnk">Resources</a></div>
+                            <div class="sub-navi-hdr">
+                                <a class="sub-navi-lnk" href="../resources/applyupdate.aspx">Apply/Update/Purchase&nbsp;Permit</a> 
+				<a class="sub-navi-lnk" href="../resources/commutersolutions.aspx">Commuter&nbsp;Solutions</a>
+                                <a class="sub-navi-lnk" href="../resources/policiesforms.aspx">Policies/Forms/Citation&nbsp;Info</a> 
+				<a class="sub-navi-lnk" href="../resources/construction.aspx">Construction</a>
+                                <a class="sub-navi-lnk" href="../resources/maps.aspx">Maps</a> 
+				<a class="sub-navi-lnk" href="../resources/resources.aspx">More&nbsp;Resources</a>
+                            </div>
+                        </li>
+						<li class="navi-list">
+                            <div class="lnk-holder">
+                                <a href="/fleet/fleet.aspx" class="navi-lnk">Fleet</a></div>
+                            <div class="sub-navi-hdr">
+                                <a class="sub-navi-lnk" href="https://www.fpm.wisc.edu/carfleetdnn/NewReservation.aspx" target="_blank">Make Reservation</a> 
+								<a class="sub-navi-lnk" href="https://www.fpm.wisc.edu/carfleetdnn/Mileage.aspx" target="_blank">Report Miles</a> 
+								<a class="sub-navi-lnk" href="/fleet/motorpool.aspx">Reservation Info</a>
+                                <a class="sub-navi-lnk" href="/fleet/policies.aspx">Policies</a> 
+								<a class="sub-navi-lnk" href="/fleet/fleet.aspx">More Fleet</a>
+				
+                            </div>
+                        </li>
+						
+                    </ul>
+                    <form action="../search.aspx" method="post" name="searchForm" defaultbutton="src-btn">
+                   <fieldset id="src-holder">
+                        <input name="srcbox" id="srcbox" type="text" />
+                        <button id="src-btn" name="src-btn" title="submit search" >
+                            search</button>
+                    </fieldset>
+                   </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <form name="aspnetForm" method="post" action="lotinfo_occupancy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcxMDI1NDU3OA9kFgJmD2QWAmYPZBYCAgMPZBYCAgEPZBYCAgIPZBYEAgEPDxYCHgRUZXh0BSVUaHVyc2RheSwgSmFudWFyeSAxMiwgMjAxNyA3OjM4OjAyIEFNZGQCAw88KwANAQAPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCDGQWAmYPZBYaAgEPZBYIZg8PFgIfAAU0DQogICAgICAgICAgICAgICAgICBDZW50cmFsIENhbXB1cw0KICAgICAgICAgICAgICAgIGRkAgEPDxYCHwAFGDAyMCAgVU5JVkVSU0lUWSBBVkUgUkFNUGRkAgIPDxYCHwAFAjcxZGQCAw9kFgJmDxUBPA0KICAgICAgICAgICAgICAgICAgaHR0cDovL2cuY28vbWFwcy8yeGVycQ0KICAgICAgICAgICAgICAgIGQCAg9kFghmDw8WAh8ABTQNCiAgICAgICAgICAgICAgICAgIENlbnRyYWwgQ2FtcHVzDQogICAgICAgICAgICAgICAgZGQCAQ8PFgIfAAUfMDI3ICBOQU5DWSBOSUNIT0xBUyBIQUxMIEdBUkFHRWRkAgIPDxYCHwAFATJkZAIDD2QWAmYPFQE8DQogICAgICAgICAgICAgICAgICBodHRwOi8vZy5jby9tYXBzL2RjZHZjDQogICAgICAgICAgICAgICAgZAIDD2QWCGYPDxYCHwAFNA0KICAgICAgICAgICAgICAgICAgQ2VudHJhbCBDYW1wdXMNCiAgICAgICAgICAgICAgICBkZAIBDw8WAh8ABRgwMzYgIE9CU0VSVkFUT1JZIERSIFJBTVBkZAICDw8WAh8ABQI2N2RkAgMPZBYCZg8VAT4NCiAgICAgICAgICAgICAgICAgIGh0dHA6Ly9nb28uZ2wvbWFwcy9PY2NoQg0KICAgICAgICAgICAgICAgIGQCBA9kFghmDw8WAh8ABTENCiAgICAgICAgICAgICAgICAgIEVhc3QgQ2FtcHVzDQogICAgICAgICAgICAgICAgZGQCAQ8PFgIfAAUZMDA2TCBIQyBXSElURSBHQVJBR0UgTE9XUmRkAgIPDxYCHwAFATBkZAIDD2QWAmYPFQE+DQogICAgICAgICAgICAgICAgICBodHRwOi8vZ29vLmdsL21hcHMvUXN3eUMNCiAgICAgICAgICAgICAgICBkAgUPZBYIZg8PFgIfAAUxDQogICAgICAgICAgICAgICAgICBFYXN0IENhbXB1cw0KICAgICAgICAgICAgICAgIGRkAgEPDxYCHwAFGTAwNlUgSEMgV0hJVEUgR0FSQUdFIFVQUFJkZAICDw8WAh8ABQIzM2RkAgMPZBYCZg8VAT4NCiAgICAgICAgICAgICAgICAgIGh0dHA6Ly9nb28uZ2wvbWFwcy9Rc3d5Qw0KICAgICAgICAgICAgICAgIGQCBg9kFghmDw8WAh8ABTENCiAgICAgICAgICAgICAgICAgIEVhc3QgQ2FtcHVzDQogICAgICAgICAgICAgICAgZGQCAQ8PFgIfAAUZMDA3ICBHUkFJTkdFUiBIQUxMIEdBUkFHRWRkAgIPDxYCHwAFAzM0N2RkAgMPZBYCZg8VAUYNCiAgICAgICAgICAgICAgICAgIGh0dHBzOi8vZ29vLmdsL21hcHMvRFFNd2JHRkh3M1QyDQogICAgICAgICAgICAgICAgZAIHD2QWCGYPDxYCHwAFMQ0KICAgICAgICAgICAgICAgICAgRWFzdCBDYW1wdXMNCiAgICAgICAgICAgICAgICBkZAIBDw8WAh8ABRcwMjkgIE4gUEFSSyBTVFJFRVQgUkFNUGRkAgIPDxYCHwAFAzIyNGRkAgMPZBYCZg8VAT4NCiAgICAgICAgICAgICAgICAgIGh0dHA6Ly9nb28uZ2wvbWFwcy9Dc0hOUw0KICAgICAgICAgICAgICAgIGQCCA9kFghmDw8WAh8ABTENCiAgICAgICAgICAgICAgICAgIEVhc3QgQ2FtcHVzDQogICAgICAgICAgICAgICAgZGQCAQ8PFgIfAAUcMDQ2ICBMQUtFICZhbXA7IEpPSE5TT04gUkFNUGRkAgIPDxYCHwAFAzExOWRkAgMPZBYCZg8VAUYNCiAgICAgICAgICAgICAgICAgIGh0dHBzOi8vZ29vLmdsL21hcHMvcnFEaHVDWUhqRU0yDQogICAgICAgICAgICAgICAgZAIJD2QWCGYPDxYCHwAFMQ0KICAgICAgICAgICAgICAgICAgRWFzdCBDYW1wdXMNCiAgICAgICAgICAgICAgICBkZAIBDw8WAh8ABRgwODMgIEZMVU5PIENFTlRFUiBHQVJBR0VkZAICDw8WAh8ABQI4MGRkAgMPZBYCZg8VATwNCiAgICAgICAgICAgICAgICAgIGh0dHA6Ly9nLmNvL21hcHMvOGF3Nm4NCiAgICAgICAgICAgICAgICBkAgoPZBYIZg8PFgIfAAUyDQogICAgICAgICAgICAgICAgICBTb3V0aCBDYW1wdXMNCiAgICAgICAgICAgICAgICBkZAIBDw8WAh8ABRcwMTcgRU5HSU5FRVJJTkcgRFIgUkFNUGRkAgIPDxYCHwAFAzExN2RkAgMPZBYCZg8VATwNCiAgICAgICAgICAgICAgICAgIGh0dHA6Ly9nLmNvL21hcHMvNmJmejINCiAgICAgICAgICAgICAgICBkAgsPZBYIZg8PFgIfAAUyDQogICAgICAgICAgICAgICAgICBTb3V0aCBDYW1wdXMNCiAgICAgICAgICAgICAgICBkZAIBDw8WAh8ABRcwODAgIFVOSU9OIFNPVVRIIEdBUkFHRWRkAgIPDxYCHwAFAjMwZGQCAw9kFgJmDxUBRg0KICAgICAgICAgICAgICAgICAgaHR0cHM6Ly9nb28uZ2wvbWFwcy9DdTRLdWNVZEE5TTINCiAgICAgICAgICAgICAgICBkAgwPZBYIZg8PFgIfAAUxDQogICAgICAgICAgICAgICAgICBXZXN0IENhbXB1cw0KICAgICAgICAgICAgICAgIGRkAgEPDxYCHwAFGDA3NiAgVU5JViBCQVkgRFJJVkUgUkFNUGRkAgIPDxYCHwAFAjcyZGQCAw9kFgJmDxUBRg0KICAgICAgICAgICAgICAgICAgaHR0cHM6Ly9nb28uZ2wvbWFwcy9qbU1mb3ZmVEtxSjINCiAgICAgICAgICAgICAgICBkAg0PDxYCHgdWaXNpYmxlaGRkGAEFL2N0bDAwJGN0bDAwJGNlbnRyYWxfYmxvY2skcmlnaHRfbmF2aV9jbnQkZ3ZOYW1lDzwrAAoBCAIBZG03t/GiIoz5f9tnIG9EDRVwyxXT" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D76551C6" />
+</div>
+    <div id="bg-lowerhalf">
+    <div class="middle-block">
+        <div class="spacer">
+        </div>
+        
+<table class="center-block" border="0" cellspacing="0">
+            <tr>
+                <td id="left-middle-navi">
+                       
+
+
+<div>
+	<div class="navi-head">
+		<div style="color: #b70101; font-size: 16px; padding: 5px 0px 0px 10px;">
+		Parking
+		</div>
+	</div>
+	<div id="accordion">
+		<div>
+			<h3><a class="left-navi-head" href="../parking/permit.aspx">Permit</a>
+			</h3>
+			<div>
+				<ul class="left-sub-navi">
+					<li><a href="../parking/Permit_UW_affiliated.aspx">UW & UW Hospital, Emeriti, Affiliates</a>
+					</li>
+					<li><a href="../parking/Permit_Departments.aspx">Departments</a>
+					</li>
+					<li><a href="../customergroups/student_parking.aspx">Students</a>
+					</li>
+					<li><a href="../parking/Permit_Non-UW_Affiliated.aspx">Non-UW Affiliated</a>
+					</li>
+					<li><a href="../parking/permit_disabled.aspx">Accessible</a>
+					</li>
+					<li><a href="../parking/Permit_rates.aspx">Parking Rates</a>
+					</li>
+					<li><a href="../parking/Permit_General_info.aspx">General Permit Info</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div>
+			<h3><a class="left-navi-head" href="../parking/visitor.aspx">Visitor</a>
+			</h3>
+			<div>
+				<ul class="left-sub-navi">
+					<li>
+					<a href="../parking/Visitor_meterconvert.aspx" >August 2016 Parking Meters converted to mobile payment</a>
+					</li>
+					<li>
+					<a href="../parking/lotinfo_occupancy.aspx" >Garage/Ramp Visitor Parking Availability</a>
+					</li>
+					<li>
+					<a href="../parking/Visitor_daily.aspx">Daily and Half-day parking</a>
+					</li>
+					<li>
+					<a href="../parking/Visitor_hourly.aspx">Hourly Parking</a>
+					</li>
+					<li><a href="../parking/visitor_monthly.aspx">Monthly Parking</a>
+					</li>
+					<li><a href="../parking/visitor_motorcycle.aspx">Motorcycle Parking</a>
+					</li>
+					<li><a href="../parking/visitor_moped.aspx">Moped Parking</a>
+					</li>
+					<li><a href="../parking/permit_afternoon.aspx">Afternoon Parking</a>
+					</li>
+					<li><a href="../parking/Visitor_accessible.aspx">Accessible Parking</a>
+					</li>
+					<li><a href="../parking/Visitor_afterhours.aspx">After-hours & Weekend Parking Options</a>
+					</li>
+					<li><a href="../forms/visitorAdvance2.aspx">Order in Advance</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div>
+			<h3><a class="left-navi-head" href="../parking/event.aspx">Event</a>
+			</h3>
+			<div>
+				<ul class="left-sub-navi">
+					<li><a href="../parking/Event_attend.aspx">Event Attendees</a>
+					</li>
+					<li><a href="../parking/Event_Host.aspx">Event Hosts-General</a>
+					</li>
+					<li><a href="../parking/event_host_nonUW.aspx">-Event Hosts-Non-UW</a>
+					</li>
+					<li><a href="../parking/event_host_UW.aspx">-Event Hosts-UW</a>
+					</li>
+					<li><a href="../parking/event_athletics.aspx">Athletics</a>
+					</li>
+					<li><a href="../parking/Event_arts.aspx">Arts</a>
+					</li>
+					<li><a href="../parking/event_lotimpacts.aspx">Events by Lot</a>
+					</li>
+					<li><a href="../parking/Event_commencement.aspx">UW Commencement</a>
+					</li>
+					<li><a href="../parking/Event_wiaa.aspx">WIAA Tournaments</a>
+					</li>
+					<li><a href="../parking/event_mmsd.aspx">MMSD Graduations</a>
+					</li>
+					<li><a href="../parking/event_movein.aspx">UW Dorm Move In/Out</a>
+					</li>
+					<li><a href="../parking/Event_kohl.aspx">Kohl Center</a>
+					</li>
+					<li><a href="../parking/Event_camprandall.aspx">Camp Randall</a>
+					</li>
+					<li><a href="../parking/event_nielsen_nat.aspx">Nielsen</a>
+					</li>
+					<li><a href="../parking/event_fluno.aspx">Fluno Center</a>
+					</li>
+					<li><a href="../parking/event_memunion.aspx">Memorial Union</a>
+					</li>
+					<li><a href="../forms/visitorAdvance2.aspx">Order in Advance</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div>
+			<h3><a class="left-navi-head" href="../parking/lotinfo.aspx">Parking&nbsp;Lots/Structures</a>
+			</h3>
+			<div>
+				<ul class="left-sub-navi">
+					<li><a href="../parking/lotInfo_hours.aspx">Lot Locations and Hours</a>
+					</li>
+					<li><a href="../parking/lotInfo_stalls.aspx">Stall Types</a>
+					</li>
+					<li><a href="../parking/lotinfo_occupancy.aspx" >Garage/Ramp Visitor Parking Availability</a>
+					</li>
+					<li><a href="../parking/lotInfo_gated.aspx">Gated Lots, Clearance Info</a>
+					</li>
+					<li><a href="../parking/lotInfo_general.aspx">General Info</a>
+					</li>
+					<li><a href="../home/lotAvailability.aspx" target="blank">Lot Availability</a>
+					</li>
+					<li><a href="../parking/Maintenance.aspx">Lot Maintenance</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div>
+			<h3><a class="left-navi-head" href="../resources/maps.aspx" target="_blank">Maps</a>
+			</h3>
+			<div>
+				<ul class="left-sub-navi">
+					<li><a href="../resources/maps_campusmap.aspx">Interactive Campus Map</a>
+					</li>
+					<li><a href="../resources/maps_campusparking.aspx">Campus Parking Maps</a>
+					</li>
+					<li><a href="../resources/maps_detour.aspx">Street Detours/Construction</a>
+					</li>
+					<li><a href="../resources/maps_getaround.aspx">Getting Around Campus</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div>
+			<h3><a class="left-navi-head" href="../resources/citation.aspx" target="_blank">Violations/Citations</a>
+			</h3>
+			<div>
+				<ul class="left-sub-navi">
+					<li><a href="../resources/citation.aspx" target="_blank">Citation Information</a>
+					</li>
+					<li><a href="../resources/citation_fees.aspx" target="_blank">Violations/Fees</a>
+					</li>
+					<li><a href="../resources/citation_towing.aspx" target="_blank">Towing</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+</div> <!-- accordion -->
+
+
+                </td>
+                <td style="width: 10px">
+                    &nbsp;
+                </td>
+                <td  id="right-middle-navi">
+                    <div >
+                        <div class="navi-head">
+                            <div style="color: #b70101; font-size: 16px; padding: 5px 0px 0px 10px;">
+                                
+    Lot Information - Visitor Parking Availability
+
+                            </div>
+                        </div>
+                        
+<p class="cnt">
+
+
+<br />
+Last Updated: <span id="ctl00_ctl00_central_block_right_navi_cnt_lblTime" class="cnt">Thursday, January 12, 2017 7:38:02 AM</span>
+</p>
+
+<div>
+	<table class="mGrid" cellspacing="0" rules="all" border="1" id="ctl00_ctl00_central_block_right_navi_cnt_gvName" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Campus Region</th><th scope="col">Garage/Ramp</th><th scope="col">Vacant Stalls</th><th scope="col">&nbsp;</th>
+		</tr><tr>
+			<td>
+                  Central Campus
+                </td><td>020  UNIVERSITY AVE RAMP</td><td align="right">71</td><td align="right">
+            <a href='
+                  http://g.co/maps/2xerq
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr class="alt">
+			<td>
+                  Central Campus
+                </td><td>027  NANCY NICHOLAS HALL GARAGE</td><td align="right">2</td><td align="right">
+            <a href='
+                  http://g.co/maps/dcdvc
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr>
+			<td>
+                  Central Campus
+                </td><td>036  OBSERVATORY DR RAMP</td><td align="right">67</td><td align="right">
+            <a href='
+                  http://goo.gl/maps/OcchB
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr class="alt">
+			<td>
+                  East Campus
+                </td><td>006L HC WHITE GARAGE LOWR</td><td align="right">0</td><td align="right">
+            <a href='
+                  http://goo.gl/maps/QswyC
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr>
+			<td>
+                  East Campus
+                </td><td>006U HC WHITE GARAGE UPPR</td><td align="right">33</td><td align="right">
+            <a href='
+                  http://goo.gl/maps/QswyC
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr class="alt">
+			<td>
+                  East Campus
+                </td><td>007  GRAINGER HALL GARAGE</td><td align="right">347</td><td align="right">
+            <a href='
+                  https://goo.gl/maps/DQMwbGFHw3T2
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr>
+			<td>
+                  East Campus
+                </td><td>029  N PARK STREET RAMP</td><td align="right">224</td><td align="right">
+            <a href='
+                  http://goo.gl/maps/CsHNS
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr class="alt">
+			<td>
+                  East Campus
+                </td><td>046  LAKE &amp; JOHNSON RAMP</td><td align="right">119</td><td align="right">
+            <a href='
+                  https://goo.gl/maps/rqDhuCYHjEM2
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr>
+			<td>
+                  East Campus
+                </td><td>083  FLUNO CENTER GARAGE</td><td align="right">80</td><td align="right">
+            <a href='
+                  http://g.co/maps/8aw6n
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr class="alt">
+			<td>
+                  South Campus
+                </td><td>017 ENGINEERING DR RAMP</td><td align="right">117</td><td align="right">
+            <a href='
+                  http://g.co/maps/6bfz2
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr>
+			<td>
+                  South Campus
+                </td><td>080  UNION SOUTH GARAGE</td><td align="right">30</td><td align="right">
+            <a href='
+                  https://goo.gl/maps/Cu4KucUdA9M2
+                ' target="_blank">Map It</a>        </td>
+		</tr><tr class="alt">
+			<td>
+                  West Campus
+                </td><td>076  UNIV BAY DRIVE RAMP</td><td align="right">72</td><td align="right">
+            <a href='
+                  https://goo.gl/maps/jmMfovfTKqJ2
+                ' target="_blank">Map It</a>        </td>
+		</tr>
+	</table>
+</div>
+<br />
+
+<br />
+
+
+
+  <div class="mDivBox">
+    <ul>
+<li>Refresh this page for the most up to date vacant stall counts.</li>
+            <li>Vacant stall counts are approximate.</li>
+            <li>Please note that the number of vacant stalls can fluctuate quickly.</li>
+            <li>Number of vacant stalls reflect visitor stalls only.</li>
+            <li>Stalls for disabled parkers, and motorcycle stalls are not included in the count of vacant stalls.</li>
+            <li>Vacant stall counts are accurate during hours of control at each garage.  Please see the Lot Information - 
+            <a href="../parking/lotinfo_hours.aspx">Locations and Hours </a>page of our website for detailed information.</li>
+        </ul>
+    </div>
+    <br />
+    <br />
+<p class="cnt">
+<a href="http://www.cityofmadison.com/parkingUtility/garagesLots/availability/" target="_blank">City of Madison parking availability</a></p> 
+<br />
+
+                    </div>
+                </td>
+            </tr>
+        </table>
+
+        <div class="spacer">
+        </div>
+    </div>
+    <!-- the footer starts here-->
+    <!-- the tan bar of the footer-->
+    <div id="btm-tan">
+        <ul id="btm-lnk-list">
+            <li>
+                <div class="ft-itm-border">
+                </div>
+            </li>
+            <li><span class="btm-lnk"><a href="http://visitor.constantcontact.com/manage/optin/ea?v=001QSVz3SN0NaqhIZA5mZENKA%3D%3D">Join our mailing list</a></span></li>
+            <li>
+                <div class="ft-itm-border">
+                </div>
+            </li>
+            <li><span class="btm-lnk"><a href="#">Follow Us:</a>&nbsp;&nbsp;<a href="http://www.facebook.com/pages/Madison-WI/UW-Madison-Transportation-Services/124418350966305" TARGET="_blank"><img src="../images/facebookicon.png" align="texttop" border="0" width="15" height="15"/></a>&nbsp;&nbsp;<a href="http://twitter.com/UWTransServices" TARGET="_blank"><img src="../images/twittericon.png" align="texttop" border="0" width="15" height="15"/></a></span></li>
+            <li>
+                <div class="ft-itm-border">
+                </div>
+            </li>
+            <li><span class="btm-lnk"><a href="http://www.wisc.edu/">UW-Madison Home</a></span></li>
+            <li>
+                
+                <div class="ft-itm-border">
+                </div>
+            </li>
+        </ul>
+    </div>
+    <!-- the dark red bar of the footer-->
+    <div id="btm-dark-red">
+        <div id="btm-copyright">
+            &copy; 2010 Board of Regents of the University of Wisconsin System
+        </div>
+    </div>
+    <div id="bottom-block">
+        <table class="btm-center-block" cellspacing="0" border="0">
+            <!-- sitemap starts here-->
+            <tr>
+                <td>
+                    <!-- sitemap header-->
+                    <div id="sitemap-head">
+                        SITE MAP</div>
+                    <!--sitemap contents start here-->
+                    <div id="sitemap-cnts">
+                        <table cellpadding="0" cellspacing="0" id="sitemap">
+                            <tr>
+                                <td>
+                                    <!-- first level sitemap list item-->
+                                    <ul class="sitemap-fst">
+                                        <li><a href="../parking/parking.aspx">Parking</a>
+                                            <!-- second level sitemap list item-->
+                                            <ul class="sitemap-snd">
+                                                <li><a href="../parking/Permit_UW_affiliated.aspx">Fac/Staff/Affiliates</a></li>
+                                                <li><a href="../customergroups/uwhealth.aspx">UW Hospital Employees</a></li>
+                                                <li><a href="../customergroups/student.aspx">Students</a></li>
+                                                <li><a href="../parking/permit_flex.aspx">Flex</a></li>
+                                                <li><a href="../parking/permit_accessible.aspx">Accessible</a></li>
+                                                <li><a href="../parking/visitor.aspx">Visitor</a></li>
+                                                <li><a href="../parking/Permit_Non-UW_Affiliated.aspx">Special Permits</a></li>
+                                                <li><a href="../parking/permit_rates.aspx">Parking Rates</a></li>
+                                                <li><a href="../parking/Permit_General_info.aspx">General Information</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <ul class="sitemap-fst">
+                                        <li><a href="../transportation/transportation.aspx">Transportation</a>
+                                            <ul class="sitemap-snd">
+                                                <li><a href="../transportation/bus.aspx">Buses</a></li>
+                                                <li><a href="../parking/Permit_Motorcycle.aspx">Motorcycle</a></li>
+                                                <li><a href="../parking/Permit_Motorcycle.aspx">Moped</a></li>
+                                                <li><a href="../transportation/walk.aspx">Pedestrian</a></li>
+                                                <li><a href="../transportation/bike.aspx">Bicycling</a></li>
+                                                <li><a href="../transportation/carpool.aspx">Carpool</a></li>
+                                                <li><a href="../transportation/vanpool.aspx">Vanpool</a></li>
+                                                <li><a href="../resources/carsharing.aspx">Carsharing</a></li>
+                                                <li><a href="../resources/emergencyride.aspx">Emergency Ride Home</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul class="sitemap-fst">
+                                        <li><a href="../resources/resources.aspx">Information</a>
+                                            <ul class="sitemap-snd">
+                                                <li><a href="../parking/lotinfo.aspx">Lot Types</a></li>
+                                                <li><a href="../resources/citation_fees.aspx">Violations and Fees</a></li>
+                                                <li><a href="../resources/citation_towing.aspx">Towing</a></li>
+                                                <li><a href="../resources/citation.aspx">Citation</a></li>
+                                                <li><a href="../parking/Permit_General_Info.aspx">General Info</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <ul class="sitemap-fst">
+                                        <li><a href="../resources/resources.aspx">Resources</a>
+                                            <ul class="sitemap-snd">
+                                                <li><a href="../home/tools_lotfull.aspx">Report Lot Full</a></li>
+                                                <li><a href="../home/lotavailability.aspx">Lot Availability</a></li>
+                                                <li><a href="../resources/policies.aspx"">Policies</a></li>
+                                                <li><a href="../resources/forms.aspx">Forms</a></li>
+												<li><a href="../resources/large_truck.aspx">UW-Madison Large Truck Policy</a></li>
+                                                <li><a href="../resources/maps.aspx">Maps</a></li>
+                                                <li><a href="#">Videos</a></li>
+                                                <li><a href="../parking/Maintenance.aspx">Lot Maintenance Request</a></li>
+                                                <li><a href="../resources/commutersolutions.aspx">Commuter Assistance</a></li>
+												<li><a href="../resources/winter.aspx">Winter Information</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <ul class="sitemap-fst">
+                                        <li><a href="../parking/event.aspx">Special Events</a>
+                                            <ul class="sitemap-snd">
+                                                <li><a href="../parking/Event_Host.aspx">Visitor and Conference Parking</a></li>
+                                                <li><a href="../parking/Event_attend.aspx">Event Parking</a></li>
+                                                <li><a href="../parking/Event_Host.aspx">Special Event Procedures</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul class="sitemap-fst">
+                                        <li><a href="../transportation/safeservices.aspx">SAFE Nighttime Service</a>
+                                            <ul class="sitemap-snd">
+                                                <li><a href="../transportation/safeservices_walk.aspx">SAFEwalk Escort</a></li>
+                                                <li><a href="../files/SAFEmap.pdf">SAFE Boundary Map</a></li>
+                                                <li><a href="../transportation/safeservices_safety.aspx">Other Nighttime Info</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <ul class="sitemap-fst">
+                                        <li><a href="#">Construction and Lot Maintenance</a>
+                                            <ul class="sitemap-snd">
+                                                <li><a href="../parking/Maintenance.aspx">Lot Maintenance Requests</a></li>
+                                                <li><a href="../resources/Construction.aspx">Current Construction Projects</a></li>
+                                                 <li><a href="../resources/maps_detours.aspx">Campus Detour and Closure Maps</a></li>
+                                                 </ul>
+                                        </li>
+                                    </ul>
+                                    <ul class="sitemap-fst">
+                                        <li><a href="../home/aboutus.aspx">About Transportation Services</a>
+                                            <ul class="sitemap-snd">
+                                                <li><a href="../home/mission.aspx">Mission</a></li>
+                                                <li><a href="../home/financial.aspx">Revenues and Expenses</a></li>
+                                                <li><a href="../home/Program_info.aspx">Operations</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+									<ul class="sitemap-fst">
+                                        <li><a href="../fleet/fleet.aspx">Fleet</a>
+                                            <ul class="sitemap-snd">
+                                                <li><a href="https://www.fpm.wisc.edu/carfleetdnn/NewReservation.aspx" target="_blank">Make Reservation</a></li>
+                                                <li><a href="https://www.fpm.wisc.edu/carfleetdnn/Mileage.aspx" target="_blank">Report Miles</a></li>
+                                                <li><a href="/fleet/motorpool.aspx">Reservation Info</a></li>
+                                                <li><a href="/fleet/policies.aspx">Policies</a></li>
+												<li><a href="/fleet/fleet.aspx">More Fleet</a></li>
+												
+                                            </ul>
+                                        </li>
+                                    </ul>
+									
+                                </td>
+								<td>
+									<img border="0" src="../images/BFU_GOLD.gif" align="right">
+								</td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+            <!-- final space bar to give the page more space-->
+            <tr>
+                <td>
+                    <div class="spacer" style="height: 20px">
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </div>
+    </form>
+    <!-- jquery script-->
+    <script src="../js/jquery-1.4.min.js" type="text/javascript"></script>
+    <script src="../js/sec_page.js" type="text/javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-16947678-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>    
+    
+<script src="../js/jquery-ui-1.8.1.custom.min.js" type="text/javascript"></script>
+<script src="../js/validator.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+        $(document).ready(function() {
+        $('#accordion').accordion({
+            header: "h3",
+            icons: { header: "left-navi-off", headerSelected: "left-navi-on" },
+            autoHeight: false,
+            event: '',
+            navigation: true
+        });
+       
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,1240 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="ctl00_ctl00_Head1"><title>
+	511WI | Traffic and Transit | Commuter Information | Incidents | Closures | Road Conditions 
+</title><meta charset="UTF-8" /><meta id="ctl00_ctl00_DescriptionMeta" name="description" content="Winter Road Conditions" /><meta id="ctl00_ctl00_KeyWordsMeta" name="keywords" content="The 511WI website provides traffic, carpooling and transit information for Wisconsin." /><meta id="ctl00_ctl00_LanguageMeta" name="language" content="EN" /><link href="/web/App_Themes/WisconsinTheme/theme.axd?v=YLdG6jFX7anKXHcr4VWT3J_OMyO2Qg9Uf8YBC2ClgyQ1" rel="stylesheet"/>
+<link id="ctl00_ctl00_wx_wow_css" rel="stylesheet" type="text/css" href="http://imawow.weather.com/web/common/header/stylesheet/wow.css" />
+    <!--[if lte IE 7]>
+        <link id="ctl00_ctl00_IeLegendStyleSheet" rel="Stylesheet" media="screen, projection, print" href="/web/css/ieLegendFixes.css" />
+        <![endif]-->
+        <!--[if gt IE 8]>
+        <link type="text/css" href="../css/ie9.css" rel="Stylesheet" media="screen, projection, print" />
+        <![endif]-->
+    
+<!--[if lte IE 6]>
+<style type="text/css">
+    img, .png, .pngBackgroundCrop, .pngBackgroundScale { behavior: url("/web/iepngfix/iepngfix.htc"); }
+</style>
+<script type="text/javascript" src="/web/iepngfix/iepngfix_tilebg.js"></script>
+<script type="text/javascript">
+    IEPNGFix.blankImg = '/web/iepngfix/blank.gif';
+</script>
+<![endif]--><noscript id="ctl00_ctl00_HeaderNoScript">
+    </noscript><script type="text/javascript">
+                var googletag = googletag || {};
+                googletag.cmd = googletag.cmd || [];
+                (function() {
+                    var gads = document.createElement('script');
+                    gads.async = true;
+                    gads.type = 'text/javascript';
+                    var useSSL = 'https:' == document.location.protocol;
+                    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+                    var node = document.getElementsByTagName('script')[0];
+                    node.parentNode.insertBefore(gads, node);
+                })();</script><script type="text/javascript">googletag.cmd.push(function() {
+                                    googletag.defineSlot('/1262412/wi_AllPages_right1_180x150', [180, 150], '').addService(googletag.pubads());googletag.defineSlot('/1262412/wi_AllPages_right2_180x150', [180, 150], '').addService(googletag.pubads());googletag.defineSlot('/1262412/wi_AllPages_left_180x150', [180, 150], '').addService(googletag.pubads());googletag.defineSlot('/1262412/wi_AllPages_left2_180x150', [180, 150], '').addService(googletag.pubads());googletag.defineSlot('/1262412/wi_AllPages_160x600', [160, 600], '').addService(googletag.pubads());
+                                    googletag.pubads().enableSingleRequest();
+                                    googletag.enableServices();
+                                });</script></head>
+<body id="ctl00_ctl00_Body" class="theme yui-skin-sam enLang">
+    
+    <form method="post" action="/Web/traffic/winterroadconditions" id="aspnetForm" style="height: 100%;">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAxODA3MTM3OA8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWAmYPZBYEAgEPZBYKAgIPFgIeB2NvbnRlbnQFFldpbnRlciBSb2FkIENvbmRpdGlvbnNkAgMPFgIfAQVVVGhlIDUxMVdJIHdlYnNpdGUgcHJvdmlkZXMgdHJhZmZpYywgY2FycG9vbGluZyBhbmQgdHJhbnNpdCBpbmZvcm1hdGlvbiBmb3IgV2lzY29uc2luLmQCBA8WAh8BBQJFTmQCBg8WAh4EaHJlZgU+aHR0cDovL2ltYXdvdy53ZWF0aGVyLmNvbS93ZWIvY29tbW9uL2hlYWRlci9zdHlsZXNoZWV0L3dvdy5jc3NkAggPFgIfAgUaL3dlYi9jc3MvaWVMZWdlbmRGaXhlcy5jc3NkAgMPFgIeBWNsYXNzBRl0aGVtZSB5dWktc2tpbi1zYW0gZW5MYW5nFgICAw9kFioCBQ8WBB4JaW5uZXJodG1sBbEDPHNjcmlwdD4NCiAgKGZ1bmN0aW9uKCkgew0KICAgIHZhciBjeCA9ICcwMTA3MzM2NTc2ODgwNTA0NjA4NDU6Z2g1YTdsZ3ZfeGknOw0KICAgIHZhciBnY3NlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7DQogICAgZ2NzZS50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7DQogICAgZ2NzZS5hc3luYyA9IHRydWU7DQogICAgZ2NzZS5zcmMgPSAoZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2wgPT0gJ2h0dHBzOicgPyAnaHR0cHM6JyA6ICdodHRwOicpICsNCiAgICAgICAgJy8vd3d3Lmdvb2dsZS5jb20vY3NlL2NzZS5qcz9jeD0nICsgY3g7DQogICAgdmFyIHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07DQogICAgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnY3NlLCBzKTsNCiAgfSkoKTsNCjwvc2NyaXB0Ph4HVmlzaWJsZWhkAgcPDxYCHgRUZXh0BXpQbGVhc2Ugbm90ZSB0aGF0IEphdmFzY3JpcHQgaXMgdXNlZCBoZWF2aWx5IG9uIHRoaXMgd2Vic2l0ZS4gSXQgaXMgcmVjb21tZW5kZWQgdGhhdCB5b3UgZW5hYmxlIEphdmFzY3JpcHQgb24geW91ciBicm93c2VyLmRkAgsPDxYEHwYFNFRyYXZlbGVyIEluZm9ybWF0aW9uOjxici8+Q2FsbCA1MTEgb3IgKDg2NikgNTExLTk0NzIfBWdkZAITDw8WAh4HVG9vbFRpcAUWR28gdG8gV2lzRE9UIGhvbWUgcGFnZWQWAmYPDxYCHwYFBExvZ29kZAIVD2QWAmYPZBYIAgEPZBYCZg8PFgIfBmVkZAIDDw8WAh8GBQhNeSA1MTFXSWRkAgUPZBYOAgEPDxYCHwcFE0VudGVyIEVtYWlsIEFkZHJlc3NkZAIDDxYCHg1XYXRlcm1hcmtUZXh0BQVFbWFpbGQCBQ8PFgIfBwUQRW50ZXIgYSBQYXNzd29yZGRkAgcPFgIfCAUIUGFzc3dvcmRkAgkPDxYEHwYFBUxvZ2luHwcFHENsaWNrIHRvIGdvIHRvIE15IDUxMVdJIHBhZ2VkZAILDw8WBh8GBQhTaWduIFVwIR8HBRpSZWdpc3RlciBmb3IgYSBuZXcgYWNjb3VudB4LTmF2aWdhdGVVcmwFFn4vbXk1MTF3aS9BY2NvdW50LmFzcHhkZAINDw8WBh8GBRNGb3Jnb3QgbXkgcGFzc3dvcmQ/HwcFH0NsaWNrIHRvIHJldHJpZXZlIHlvdXIgcGFzc3dvcmQfCQUffi9teTUxMXdpL1Bhc3N3b3JkUmVjb3ZlcnkuYXNweGRkAgcPZBYCAgMPDxYCHgpMb2dvdXRUZXh0BQZMb2dvdXRkZAIXDxYCHwVoFgQCAQ8PFgQfBmUfBwU7U2VsZWN0IGEgcmVnaW9uIHRvIHZpZXcgY29udGVudCBjdXN0b21pemVkIGZvciB0aGF0IHJlZ2lvbi5kZAIDDw8WCB8HBSVDbGljayB0byB2aWV3IGNvbnRlbnQgZm9yIGFsbCByZWdpb25zHwkFLC9XZWIvdHJhZmZpYy93aW50ZXJyb2FkY29uZGl0aW9ucz9yZWdpb249YWxsHghDc3NDbGFzcwUSY291bnR5IGFsbFNlbGVjdGVkHgRfIVNCAgJkFgJmDw8WAh8GBRBBbGwgQWxlcnRSZWdpb25zZGQCGw8WAh8FaGQCIQ9kFgICBA9kFgICAQ8WAh4LXyFJdGVtQ291bnQCDxYeAgEPZBYCAgEPZBYEAgEPDxYIHwkFFn4vdHJhZmZpYy9kZWZhdWx0LmFzcHgfBwUHVHJhZmZpYx8LBR10cmFmZmljX2RlZmF1bHRfYXNweCBzZWxlY3RlZB8MAgJkFgICAQ8PFgIfBgUHVHJhZmZpY2RkAgMPFgIfDQIHFg4CAQ9kFgICAQ9kFgICAQ8PFggfCQUSfi90cmFmZmljL21hcC5hc3B4HwcFIkNsaWNrIHRvIHNlZSByZWFsIHRpbWUgdHJhZmZpYyBtYXAfCwUQdHJhZmZpY19tYXBfYXNweB8MAgJkFgICAQ8PFgIfBgULVHJhZmZpYyBNYXBkZAICD2QWAgIBD2QWAgIBDw8WCB8JBR5+L3RyYWZmaWMvd2ludGVycm9hZGNvbmRpdGlvbnMfBwUWV2ludGVyIFJvYWQgQ29uZGl0aW9ucx8LBSV0cmFmZmljX3dpbnRlcnJvYWRjb25kaXRpb25zIHNlbGVjdGVkHwwCAmQWAgIBDw8WAh8GBRZXaW50ZXIgUm9hZCBDb25kaXRpb25zZGQCAw9kFgICAQ9kFgICAQ8PFggfCQUYfi90cmFmZmljL2luY2lkZW50cy5hc3B4HwcFCUluY2lkZW50cx8LBRZ0cmFmZmljX2luY2lkZW50c19hc3B4HwwCAmQWAgIBDw8WAh8GBQlJbmNpZGVudHNkZAIED2QWAgIBD2QWAgIBDw8WCB8JBRx+L3RyYWZmaWMvcm9hZF9jbG9zdXJlcy5hc3B4HwcFE1JvYWR3b3JrIC8gQ2xvc3VyZXMfCwUadHJhZmZpY19yb2FkX2Nsb3N1cmVzX2FzcHgfDAICZBYCAgEPDxYCHwYFE1JvYWR3b3JrIC8gQ2xvc3VyZXNkZAIFD2QWAgIBD2QWAgIBDw8WCB8JBRx+L3RyYWZmaWMvbWVzc2FnZV9zaWducy5hc3B4HwcFGlJlYWwgVGltZSBUcmFmZmljIE1lc3NhZ2VzHwsFGnRyYWZmaWNfbWVzc2FnZV9zaWduc19hc3B4HwwCAmQWAgIBDw8WAh8GBQ1NZXNzYWdlIFNpZ25zZGQCBg9kFgICAQ9kFgICAQ8PFggfCQUWfi90cmFmZmljL2NhbWVyYXMuYXNweB8HBRlSZWFsIFRpbWUgVHJhZmZpYyBDYW1lcmFzHwsFFHRyYWZmaWNfY2FtZXJhc19hc3B4HwwCAmQWAgIBDw8WAh8GBQhDYW1lcmFzIGRkAgcPZBYCAgEPZBYCAgEPDxYIHwkFGX4vdHJhZmZpYy90aW1lX3NwZWVkLmFzcHgfBwUMVHJhdmVsIFRpbWVzHwsFF3RyYWZmaWNfdGltZV9zcGVlZF9hc3B4HwwCAmQWAgIBDw8WAh8GBQ1UcmF2ZWwgVGltZXMgZGQCAg9kFgICAQ9kFgQCAQ8PFggfCQUWfi90cmFuc2l0L2RlZmF1bHQuYXNweB8HBQdUcmFuc2l0HwsFFHRyYW5zaXRfZGVmYXVsdF9hc3B4HwwCAmQWAgIBDw8WAh8GBQdUcmFuc2l0ZGQCAw8WAh8NAgIWBAIBD2QWAgIBD2QWAgIBDw8WCB8JBSB+L3RyYW5zaXQvZGVmYXVsdC5hc3B4I3N0YXRld2lkZR8HBShTdGF0ZXdpZGUgLyBVcmJhbiBQdWJsaWMgVHJhbnNpdCBTeXN0ZW1zHwsFHnRyYW5zaXRfZGVmYXVsdF9hc3B4I3N0YXRld2lkZR8MAgJkFgICAQ8PFgIfBgURU3RhdGV3aWRlIC8gVXJiYW5kZAICD2QWAgIBD2QWAgIBDw8WCB8JBRd+L3RyYW5zaXQvcmVnaW9uYWwuYXNweB8HBSVSZWdpb25hbCBVcmJhbiBQdWJsaWMgVHJhbnNpdCBTeXN0ZW1zHwsFFXRyYW5zaXRfcmVnaW9uYWxfYXNweB8MAgJkFgICAQ8PFgIfBgUdUmVnaW9uYWwgVXJiYW4gUHVibGljIFRyYW5zaXRkZAIDD2QWAgIBD2QWBAIBDw8WCB8JBR5+L3RyYXZlbF9zZXJ2aWNlcy9kZWZhdWx0LmFzcHgfBwUPVHJhdmVsIFNlcnZpY2VzHwsFHHRyYXZlbF9zZXJ2aWNlc19kZWZhdWx0X2FzcHgfDAICZBYCAgEPDxYCHwYFD1RyYXZlbCBTZXJ2aWNlc2RkAgMPFgIfDQIIFhACAQ9kFgICAQ9kFgICAQ8PFggfCQUsfi90cmF2ZWxfc2VydmljZXMvZGVmYXVsdC5hc3B4I21vZGVzb2Z0cmF2ZWwfBwUPTW9kZXMgb2YgVHJhdmVsHwsFKnRyYXZlbF9zZXJ2aWNlc19kZWZhdWx0X2FzcHgjbW9kZXNvZnRyYXZlbB8MAgJkFgICAQ8PFgIfBgUPTW9kZXMgb2YgVHJhdmVsZGQCAg9kFgICAQ9kFgICAQ8PFggfCQUvfi90cmF2ZWxfc2VydmljZXMvZGVmYXVsdC5hc3B4I3RyYXZlbGFzc2lzdGFuY2UfBwURVHJhdmVsIEFzc2lzdGFuY2UfCwUtdHJhdmVsX3NlcnZpY2VzX2RlZmF1bHRfYXNweCN0cmF2ZWxhc3Npc3RhbmNlHwwCAmQWAgIBDw8WAh8GBRFUcmF2ZWwgQXNzaXN0YW5jZWRkAgMPZBYCAgEPZBYCAgEPDxYIHwkFN34vdHJhdmVsX3NlcnZpY2VzL2RlZmF1bHQuYXNweCNjb25zdHJ1Y3Rpb25faW5mb3JtYXRpb24fBwUYQ29uc3RydWN0aW9uIEluZm9ybWF0aW9uHwsFNXRyYXZlbF9zZXJ2aWNlc19kZWZhdWx0X2FzcHgjY29uc3RydWN0aW9uX2luZm9ybWF0aW9uHwwCAmQWAgIBDw8WAh8GBRhDb25zdHJ1Y3Rpb24gSW5mb3JtYXRpb25kZAIED2QWAgIBD2QWAgIBDw8WCB8JBSZ+L3RyYXZlbF9zZXJ2aWNlcy9kZWZhdWx0LmFzcHgjd2VhdGhlch8HBQdXZWF0aGVyHwsFJHRyYXZlbF9zZXJ2aWNlc19kZWZhdWx0X2FzcHgjd2VhdGhlch8MAgJkFgICAQ8PFgIfBgUHV2VhdGhlcmRkAgUPZBYCAgEPZBYCAgEPDxYIHwkFJX4vdHJhdmVsX3NlcnZpY2VzL2RlZmF1bHQuYXNweCNzYWZldHkfBwUgU2FmZXR5IGFuZCBFbWVyZ2VuY3kgSW5mb3JtYXRpb24fCwUjdHJhdmVsX3NlcnZpY2VzX2RlZmF1bHRfYXNweCNzYWZldHkfDAICZBYCAgEPDxYCHwYFGVNhZmV0eSBhbmQgRW1lcmdlbmN5IEluZm9kZAIGD2QWAgIBD2QWAgIBDw8WCB8JBSV+L3RyYXZlbF9zZXJ2aWNlcy9kZWZhdWx0LmFzcHgjZXZlbnRzHwcFGE1ham9yIEV2ZW50cyBhbmQgVG91cmlzbR8LBSN0cmF2ZWxfc2VydmljZXNfZGVmYXVsdF9hc3B4I2V2ZW50cx8MAgJkFgICAQ8PFgIfBgUYTWFqb3IgRXZlbnRzIGFuZCBUb3VyaXNtZGQCBw9kFgICAQ9kFgICAQ8PFggfCQUpfi90cmF2ZWxfc2VydmljZXMvZGVmYXVsdC5hc3B4I291dG9mc3RhdGUfBwUMT3V0IG9mIFN0YXRlHwsFJ3RyYXZlbF9zZXJ2aWNlc19kZWZhdWx0X2FzcHgjb3V0b2ZzdGF0ZR8MAgJkFgICAQ8PFgIfBgUMT3V0IG9mIFN0YXRlZGQCCA9kFgICAQ9kFgICAQ8PFggfCQUvfi90cmF2ZWxfc2VydmljZXMvZGVmYXVsdC5hc3B4I25laWdoYm9yaW5nc2l0ZXMfBwUYTmVpZ2hib3JpbmcgNTExIFdlYnNpdGVzHwsFLXRyYXZlbF9zZXJ2aWNlc19kZWZhdWx0X2FzcHgjbmVpZ2hib3JpbmdzaXRlcx8MAgJkFgICAQ8PFgIfBgUYTmVpZ2hib3JpbmcgNTExIFdlYnNpdGVzZGQCBA9kFgICAQ9kFgQCAQ8PFggfCQUVfi9leHRyYXMvZGVmYXVsdC5hc3B4HwcFBkV4dHJhcx8LBRNleHRyYXNfZGVmYXVsdF9hc3B4HwwCAmQWAgIBDw8WAh8GBQZFeHRyYXNkZAIDDxYCHw0CAhYEAgEPZBYCAgEPZBYCAgEPDxYIHwkFHX4vZXh0cmFzL2RldmVsb3Blci9sb2dpbi5hc3B4HwcFEERldmVsb3BlciBQb3J0YWwfCwUbZXh0cmFzX2RldmVsb3Blcl9sb2dpbl9hc3B4HwwCAmQWAgIBDw8WAh8GBRBEZXZlbG9wZXIgUG9ydGFsZGQCAg9kFgICAQ9kFgICAQ8PFggfCQUXfi9leHRyYXMvZG93bmxvYWRzLmFzcHgfBwUJRG93bmxvYWRzHwsFFWV4dHJhc19kb3dubG9hZHNfYXNweB8MAgJkFgICAQ8PFgIfBgUJRG93bmxvYWRzZGQCBQ9kFgICAQ8WAh8FaBYEAgEPDxYIHwkFFH4vYWJvdXQvZGVmYXVsdC5hc3B4HwcFBUFib3V0HwsFEmFib3V0X2RlZmF1bHRfYXNweB8MAgJkFgICAQ8PFgIfBgUFQWJvdXRkZAIDDxYCHw0CAhYEAgEPZBYCAgEPZBYCAgEPDxYIHwkFEX4vYWJvdXQvbmV3cy5hc3B4HwcFBE5ld3MfCwUPYWJvdXRfbmV3c19hc3B4HwwCAmQWAgIBDw8WAh8GBQROZXdzZGQCAg9kFgICAQ9kFgIC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Ah8GBQpEaXNjbGFpbWVyZGQCAw8WBB8NZh8FaGQCIw9kFgQCAQ8PFgYeDUFsdGVybmF0ZVRleHQFBExvZ28eCEltYWdlVXJsBStBcHBfVGhlbWVzL1dpc2NvbnNpblRoZW1lL2ltYWdlcy9sb2dvUEYuZ2lmHwVnZGQCAw8PFgIfBgUETG9nb2RkAiUPDxYGHwkFDn4vZGVmYXVsdC5hc3B4HwcFHUNsaWNrIHRvIGdvIHRvIHRoZSBob21lIHBhZ2UuHwYFBEhvbWVkZAInDw8WBB8JBRR+L2Fib3V0L2RlZmF1bHQuYXNweB8FaGRkAikPDxYCHwcFUENsaWNrIGZvciBoZWxwIGluZm9ybWF0aW9uIGFib3V0IHRoZSBjdXJyZW50IHBhZ2UsIG9yIGFib3V0IHRoZSBzaXRlIGluIGdlbmVyYWwuZGQCKw8PFgIfBgUUQ09OVEFDVCZuYnNwO3wmbmJzcDtkZAItDw8WAh8GBQNGQVFkZAIvDw8WAh8HBTVDbGljayB0byBzZWUgYSBwcmludGVyLWZyaWVuZGx5IHZlcnNpb24gb2YgdGhpcyBwYWdlLmQWAmYPDxYCHwYFEFByaW50ZXItRnJpZW5kbHlkZAIxD2QWAgICD2QWAgIDDxYCHwVoZAIzD2QWBAIDD2QWBAIBD2QWAmYPZBYEAgEPDxYCHwVoZBYCAgEPDxYEHwYFCEFsbCBIZWxwHwcFH0NsaWNrIHRvIHZpZXcgYWxsIGhlbHAgYXJ0aWNsZXNkZAIDDxYCHw0CARYCZg9kFgICAQ8PFgQfCwUiY29udGVudFNlY3Rpb24gZmlyc3RDb250ZW50U2VjdGlvbh8MAgJkFgICAQ8WAh8GBSE8aDE+V2ludGVyIFJvYWQgQ29uZGl0aW9uczwvaDE+DQpkAgMPZBYCZg9kFgoCAw8QD2QWAh4MYXV0b2NvbXBsZXRlBQNvZmYQFT0MQWxsIENvdW50aWVzB0FzaGxhbmQGQmFycm9uCEJheWZpZWxkBUJyb3duB0J1cm5ldHQIQ2hpcHBld2EFQ2xhcmsIQ29sdW1iaWEERGFuZQVEb2RnZQREb29yB0RvdWdsYXMERHVubgpFYXUgQ2xhaXJlCEZsb3JlbmNlC0ZvbmQgRHUgTGFjBkZvcmVzdAVHcmFudARJb3dhBElyb24HSmFja3NvbglKZWZmZXJzb24GSnVuZWF1B0tlbm9zaGEJTGEgQ3Jvc3NlCExhbmdsYWRlB0xpbmNvbG4JTWFuaXRvd29jCE1hcmF0aG9uCU1hcmluZXR0ZQlNaWx3YXVrZWUGTW9ucm9lBk9jb250bwZPbmVpZGEJT3V0YWdhbWllB096YXVrZWUEUG9sawdQb3J0YWdlBVByaWNlBlJhY2luZQhSaWNobGFuZARSb2NrBFJ1c2sEU2F1awZTYXd5ZXIHU2hhd2FubwlTaGVib3lnYW4JU3QuIENyb2l4BlRheWxvcgtUcmVtcGVhbGVhdQZWZXJub24FVmlsYXMIV2Fsd29ydGgIV2FzaGJ1cm4KV2FzaGluZ3RvbghXYXVrZXNoYQdXYXVwYWNhCFdhdXNoYXJhCVdpbm5lYmFnbwRXb29kFT0AB0FzaGxhbmQGQmFycm9uCEJheWZpZWxkBUJyb3duB0J1cm5ldHQIQ2hpcHBld2EFQ2xhcmsIQ29sdW1iaWEERGFuZQVEb2RnZQREb29yB0RvdWdsYXMERHVubgpFYXUgQ2xhaXJlCEZsb3JlbmNlC0ZvbmQgRHUgTGFjBkZvcmVzdAVHcmFudARJb3dhBElyb24HSmFja3NvbglKZWZmZXJzb24GSnVuZWF1B0tlbm9zaGEJTGEgQ3Jvc3NlCExhbmdsYWRlB0xpbmNvbG4JTWFuaXRvd29jCE1hcmF0aG9uCU1hcmluZXR0ZQlNaWx3YXVrZWUGTW9ucm9lBk9jb250bwZPbmVpZGEJT3V0YWdhbWllB096YXVrZWUEUG9sawdQb3J0YWdlBVByaWNlBlJhY2luZQhSaWNobGFuZARSb2NrBFJ1c2sEU2F1awZTYXd5ZXIHU2hhd2FubwlTaGVib3lnYW4JU3QuIENyb2l4BlRheWxvcgtUcmVtcGVhbGVhdQZWZXJub24FVmlsYXMIV2Fsd29ydGgIV2FzaGJ1cm4KV2FzaGluZ3RvbghXYXVrZXNoYQdXYXVwYWNhCFdhdXNoYXJhCVdpbm5lYmFnbwRXb29kFCsDPWdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAgUPEA9kFgIfEAUDb2ZmEBUjDEFsbCBIaWdod2F5cwlJLTM5L0kt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FgJmDxYCHwVnZAIFDxYCHwIFGWh0dHBzOi8vdHdpdHRlci5jb20vNTExV0kWAmYPFgIfBWdkAgcPFgIfAgUOfi9SU1NGZWVkLmFzcHgWAmYPFgIfBWdkAjsPFgIfDQIPFiBmD2QWAgIBDw8WAh8HBZ4BNTExV0kgcHJvdmlkZXMgdHJhZmZpYyBhbmQgdHJhbnNpdCBpbmZvcm1hdGlvbi4gIFZpZXcgbGl2ZSB0cmFmZmljIG1hcCB3aXRoIHRyYXZlbCB0aW1lcywgdHJhZmZpYyBhY2NpZGVudCBkZXRhaWxzLCB0cmFmZmljIGNhbWVyYXMgYW5kIG90aGVyIHJvYWQgY29uZGl0aW9ucy5kFgJmDw8WAh8GBQRIb21lZGQCAQ9kFgICAw8PFgQfCQUWfi90cmFmZmljL2RlZmF1bHQuYXNweB8HBT9MaXZlIHRyYWZmaWMgbWFwLCBhY2NpZGVudHMscm9hZCBjb25kaXRpb25zIGFuZCB0cmFmZmljIHNwZWVkcy5kFgJmDw8WAh8GBQdUcmFmZmljZGQCAg9kFgICAw8PFgQfCQUWfi90cmFuc2l0L2RlZmF1bHQuYXNweB8HBQdUcmFuc2l0ZBYCZg8PFgIfBgUHVHJhbnNpdGRkAgMPZBYCAgMPDxYEHwkFHn4vdHJhdmVsX3NlcnZpY2VzL2RlZmF1bHQuYXNweB8HBQ9UcmF2ZWwgU2VydmljZXNkFgJmDw8WAh8GBQ9UcmF2ZWwgU2VydmljZXNkZAIED2QWAgIDDw8WBB8JBRV+L2V4dHJhcy9kZWZhdWx0LmFzcHgfBwUGRXh0cmFzZBYCZg8PFgIfBgUGRXh0cmFzZGQCBQ8WAh8FaBYCAgMPDxYEHwkFFH4vYWJvdXQvZGVmYXVsdC5hc3B4HwcFJTUxMVdJIHByb3ZpZGVzIHRyYWZmaWMgZm9yIFdpc2NvbnNpbi5kFgJmDw8WAh8GBQVBYm91dGRkAgYPZBYCAgMPDxYEHwkFCn4vZmFxLmFzcHgfBwUHSVZSIEZBUWQWAmYPDxYCHwYFA0ZBUWRkAgcPZBYCAgMPDxYEHwkFFn4vbXk1MTF3aS9kZWZhdWx0LmFzcHgfBwUqRmluZCB0aGUgYmVzdCB3YXkgdG8gZ2V0IGFyb3VuZCBXaXNjb25zaW4uZBYCZg8PFgIfBgUITXkgNTExV0lkZAIID2QWAgIDDw8WBB8JBRp+LzUxMXByb2plY3RzL2RlZmF1bHQuYXNweB8HBSpGaW5kIHRoZSBiZXN0IHdheSB0byBnZXQgYXJvdW5kIFdpc2NvbnNpbi5kFgJmDw8WAh8GBQw1MTEgUHJvamVjdHNkZAIJD2QWAgIDDw8WBB8JBQt+L2hlbHAuYXNweB8HBVpSZWFsLVRpbWUgdHJhZmZpYyBpbmNsdWRpbmcgYWNjaWRlbnRzLCBSb2FkIENvbmRpdGlvbnMsIFJvYWQgQ2xvc3VyZXMsIGFuZCBUcmFmZmljIENhbWVyYXNkFgJmDw8WAh8GBQRIZWxwZGQCCg9kFgICAw8PFgQfCQUOfi9zaXRlbWFwLmFzcHgfBwUHU2l0ZW1hcGQWAmYPDxYCHwYFB1NpdGVtYXBkZAILD2QWAgIDDw8WBB8JBRF+L2NvbnRhY3RfdXMuYXNweB8HBQ5MZWF2ZSBGZWVkYmFja2QWAmYPDxYCHwYFDkxlYXZlIEZlZWRiYWNrZGQCDA9kFgICAw8PFgQfCQUNfi9yZXBvcnQuYXNweB8HBRVSZXBvcnQgVHJhZmZpYyBIYXphcmRkFgJmDw8WAh8GBRVSZXBvcnQgVHJhZmZpYyBIYXphcmRkZAIND2QWAgIDDw8WBB8JBQ5+L3ByaXZhY3kuYXNweB8HBQ5Qcml2YWN5IFBvbGljeWQWAmYPDxYCHwYFDlByaXZhY3kgUG9saWN5ZGQCDg8WAh8FaBYCAgMPDxYEHwkFDX4vYWxlcnRzLmFzcHgfBwWiAVZpZXcgbGl2ZSBsYSB0cmFmZmljIGFsZXJ0cyBoaWdobGlnaHRpbmcgaW1wb3J0YW50IHRyYWZmaWMgaW5mb3JtYXRpb24gaW5jbHVkaW5nIHJvYWQgY2xvc3VyZXMsIGFjY2lkZW50cyBhZmZlY3RpbmcgdHJhZmZpYyBhbmQgd2VhdGhlciByZWxhdGVkIHJvYWQgY29uZGl0aW9ucy4gIGQWAmYPDxYCHwYFBkFsZXJ0c2RkAg8PZBYCAgMPDxYEHwkFEX4vZGlzY2xhaW1lci5hc3B4HwcFCkRpc2NsYWltZXJkFgJmDw8WAh8GBQpEaXNjbGFpbWVyZGQCPQ8WAh8NAg8WHmYPFgIfBWgWAgIDDw8WBB8JBRZ+L3RyYWZmaWMvZGVmYXVsdC5hc3B4HwcFP0xpdmUgdHJhZmZpYyBtYXAsIGFjY2lkZW50cyxyb2FkIGNvbmRpdGlvbnMgYW5kIHRyYWZmaWMgc3BlZWRzLmQWAmYPDxYCHwYFB1RyYWZmaWNkZAIBDxYCHwVoFgICAw8PFgQfCQUWfi90cmFuc2l0L2RlZmF1bHQuYXNweB8HBQdUcmFuc2l0ZBYCZg8PFgIfBgUHVHJhbnNpdGRkAgIPFgIfBWgWAgIDDw8WBB8JBR5+L3RyYXZlbF9zZXJ2aWNlcy9kZWZhdWx0LmFzcHgfBwUPVHJhdmVsIFNlcnZpY2VzZBYCZg8PFgIfBgUPVHJhdmVsIFNlcnZpY2VzZGQCAw8WAh8FaBYCAgMPDxYEHwkFFX4vZXh0cmFzL2RlZmF1bHQuYXNweB8HBQZFeHRyYXNkFgJmDw8WAh8GBQZFeHRyYXNkZAIEDxYCHwVoFgICAw8PFgQfCQUUfi9hYm91dC9kZWZhdWx0LmFzcHgfBwUlNTExV0kgcHJvdmlkZXMgdHJhZmZpYyBmb3IgV2lzY29uc2luLmQWAmYPDxYCHwYFBUFib3V0ZGQCBQ8WAh8FaBYCAgMPDxYEHwkFCn4vZmFxLmFzcHgfBwUHSVZSIEZBUWQWAmYPDxYCHwYFA0ZBUWRkAgYPFgIfBWgWAgIDDw8WBB8JBRZ+L215NTExd2kvZGVmYXVsdC5hc3B4HwcFKkZpbmQgdGhlIGJlc3Qgd2F5IHRvIGdldCBhcm91bmQgV2lzY29uc2luLmQWAmYPDxYCHwYFCE15IDUxMVdJZGQCBw8WAh8FaBYCAgMPDxYEHwkFGn4vNTExcHJvamVjdHMvZGVmYXVsdC5hc3B4HwcFKkZpbmQgdGhlIGJlc3Qgd2F5IHRvIGdldCBhcm91bmQgV2lzY29uc2luLmQWAmYPDxYCHwYFDDUxMSBQcm9qZWN0c2RkAggPFgIfBWgWAgIDDw8WBB8JBQt+L2hlbHAuYXNweB8HBVpSZWFsLVRpbWUgdHJhZmZpYyBpbmNsdWRpbmcgYWNjaWRlbnRzLCBSb2FkIENvbmRpdGlvbnMsIFJvYWQgQ2xvc3VyZXMsIGFuZCBUcmFmZmljIENhbWVyYXNkFgJmDw8WAh8GBQRIZWxwZGQCCQ8WAh8FaBYCAgMPDxYEHwkFDn4vc2l0ZW1hcC5hc3B4HwcFB1NpdGVtYXBkFgJmDw8WAh8GBQdTaXRlbWFwZGQCCg8WAh8FaBYCAgMPDxYEHwkFEX4vY29udGFjdF91cy5hc3B4HwcFDkxlYXZlIEZlZWRiYWNrZBYCZg8PFgIfBgUOTGVhdmUgRmVlZGJhY2tkZAILDxYCHwVoFgICAw8PFgQfCQUNfi9yZXBvcnQuYXNweB8HBRVSZXBvcnQgVHJhZmZpYyBIYXphcmRkFgJmDw8WAh8GBRVSZXBvcnQgVHJhZmZpYyBIYXphcmRkZAIMDxYCHwVoFgICAw8PFgQfCQUOfi9wcml2YWN5LmFzcHgfBwUOUHJpdmFjeSBQb2xpY3lkFgJmDw8WAh8GBQ5Qcml2YWN5IFBvbGljeWRkAg0PFgIfBWgWAgIDDw8WBB8JBQ1+L2FsZXJ0cy5hc3B4HwcFogFWaWV3IGxpdmUgbGEgdHJhZmZpYyBhbGVydHMgaGlnaGxpZ2h0aW5nIGltcG9ydGFudCB0cmFmZmljIGluZm9ybWF0aW9uIGluY2x1ZGluZyByb2FkIGNsb3N1cmVzLCBhY2NpZGVudHMgYWZmZWN0aW5nIHRyYWZmaWMgYW5kIHdlYXRoZXIgcmVsYXRlZCByb2FkIGNvbmRpdGlvbnMuICBkFgJmDw8WAh8GBQZBbGVydHNkZAIODxYCHwVoFgICAw8PFgQfCQURfi9kaXNjbGFpbWVyLmFzcHgfBwUKRGlzY2xhaW1lcmQWAmYPDxYCHwYFCkRpc2NsYWltZXJkZAJBDxYCHwVoFgICAQ8WAh8GBQxPcGVyYXRlZCBieTpkGAEFPmN0bDAwJGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlciRDb2x1bW4yUGxhY2VIb2xkZXIkTGlzdEdyaWRWaWV3DzwrAAwBCAIFZDHFqw+SJWr9Dd1pNi+Fdfcr2y3D" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+(
+  function()
+  {
+    try
+    {
+      var pageTracker = _gat._getTracker("UA-7345015-3");
+      pageTracker._setDomainName("none");
+      pageTracker._trackPageview();
+    }
+    catch(e) { }
+  }
+)();
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+djConfig = {"isDebug":false,"debugContainerId":null,"debugAtAllCosts":true,"parseOnLoad":false,"afterOnLoad":false,"locale":"en-us","baseUrl":"/web/","extraLocale":[],"modulePaths":{"com":"js/com","IBI":"js/IBI"}};
+// ]]>
+</script>
+<script type="text/javascript" src="/web/Scripts/dojo.xd.1.3.2.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+dojo.registerModulePath("IBI.ATIS.PublicWeb.Controls.HeaderNavControl.HeaderNavControl", "/web/Controls/HeaderNavControl/js/HeaderNavControl");
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+(
+  function()
+  {
+    dojo.addOnLoad
+    (
+      function()
+      {
+        if (typeof(console) === "undefined")
+        {
+          console =
+          {
+            log: function() {},
+            info: function() {},
+            warn: function() {},
+            error: function() {}
+          };
+        }
+        else
+        {
+    console.log = function() {};
+    console.info = function() {};
+    console.warn = function() {};
+        }
+      }
+    );
+  }
+)();
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+dojo.registerModulePath("IBI.ATIS.PublicWeb.Controls.AlertRotatorControl.AlertRotatorControl", "/web/Controls/AlertRotatorControl/js/AlertRotatorControl");
+// ]]>
+</script>
+
+<script src="/web/ScriptResource.axd?d=K1NH-lbiDWJmQl08c3Lz1ZXN6ww0o22jRAXVI9xMq_hdedBU5OBVreAw9pVIZX9AJVRu3eJS1Y4uc7KYIsX4BmhrRwvEYzs9t0DoGxWm-NJhYprNID4ykSm0vMRnuQ97-zYUcCtCaywQSnYEEiAa3HblEkQ-3ygWsih1AKsEIrFcCiGgu_NWZD4ciati6RR9kpAuiiRiDXxukssimM8bGRD2GZRg1fGJ4hKyht5b8Kfo15dAXA-0srF0iQexIAQGn-PusqcrdCwETYMA5Pgn3lDKI4NAGShUiwd_-MnAHIOdS4N02KwC1VHml6tp_aP01bJqvY1Fz6EqMZfDGZmUVOrizyDlxCUJaCXwdxUOgWsYjVXGGKIXsXNnTSV9sH6C17-IIvJvD92SNG5lhB5bTQ0O6Z41q9tiXDWBVLot5sOb8MwWbEFeEHDCGWdtjucUpTKIzdfJANpk6peAib8TJ0Qf7PBdDoHQZVzLQfqWiWsLXEKZkUFMx7X3gkjdrSvUBjh2F0ucsp4qaGl3UwTSihPXgXwoMmvDNWlY7Xj_4JG6jeH1hq-QuDtAXd923IfKTQonVBPkZ_UvU91sGR9_IyjMsX3peUXxFy1Shb4zzn4Efbw9mpvkdxTP-QerkkCNjuw4kEP7kE-U4Uu4oRkDdMQLbMpH0hUnFHCdCeheMkXmvESkUFntrI-E-i2NiH7Eaf-IQGm9yfhbGr7O5HdlP5Qd_KrwCCkdCvxfVnjEDaSlsleT-cyz6UA_CUIQdVwt-H6hL9vEcTdmGQe-pPGr21VObws1" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0ECF0B3C" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspnetForm', ['tctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ContentUpdatePanel',''], [], [], 90, 'ctl00$ctl00');
+//]]>
+</script>
+
+        
+        
+        <div id="ShadowTopDiv">
+            <div id="PageDiv">
+                <noscript>
+                    <div class="error noScriptError">
+                        <span id="ctl00_ctl00_NoScriptErrorLabel" class="message">Please note that Javascript is used heavily on this website. It is recommended that you enable Javascript on your browser.</span>
+                    </div>
+                </noscript>
+                <div id="HeaderDiv">
+                    <div id="topBanner"><a id="ctl00_ctl00_HyperLink1" href="../default.aspx"><div class="rightLogo"></div></a></div>
+                    <div id="navBg"></div>
+                    
+                     <span id="ctl00_ctl00_logoInfo" class="logoInfo">Traveler Information:<br/>Call 511 or (866) 511-9472</span>
+                    
+                  
+                         
+                       
+                
+                
+                    <!-- BEGIN LOGO -->
+                    <a id="ctl00_ctl00_LogoHyperLink" title="Go to WisDOT home page" class="logo" href="http://wisconsindot.gov/Pages/home.aspx"><span id="ctl00_ctl00_LogoLabel">Logo</span></a>
+                    <!-- END LOGO -->
+                    <!-- BEGIN LOGIN -->     
+                     <div id="ctl00_ctl00_LoginControl1_topMasterLoginContainer" class="loginContainer">
+    <div class="login">
+        
+        <div class="loginLayout">
+            <span id="ctl00_ctl00_LoginControl1_MyTravelInfoLabel" class="myTravelInfoLabel">My 511WI</span>
+             
+            <div id="ctl00_ctl00_LoginControl1_LoginInputPanel" class="loginInputPanel" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_ctl00_LoginControl1_LoginButton&#39;)">
+	
+                <input name="ctl00$ctl00$LoginControl1$LoginUsernameText" type="text" id="ctl00_ctl00_LoginControl1_LoginUsernameText" title="Enter Email Address" class="loginInput" />
+                
+                <input name="ctl00$ctl00$LoginControl1$LoginPasswordText" type="password" id="ctl00_ctl00_LoginControl1_LoginPasswordText" title="Enter a Password" class="loginInput" />
+                
+                <input type="submit" name="ctl00$ctl00$LoginControl1$LoginButton" value="Login" id="ctl00_ctl00_LoginControl1_LoginButton" title="Click to go to My 511WI page" class="loginButtonInHeader" />
+                <a id="ctl00_ctl00_LoginControl1_SignUpLabel" title="Register for a new account" class="signUpLabel" href="../my511wi/Account.aspx">Sign Up!</a>
+                <br />
+                <a id="ctl00_ctl00_LoginControl1_ForgotPasswordLabel" title="Click to retrieve your password" class="forgotPasswordLabel" href="../my511wi/PasswordRecovery.aspx">Forgot my password?</a>           
+            
+</div>
+        </div>
+        
+        
+           <input type="hidden" name="ctl00$ctl00$LoginControl1$UserLoggedInId" id="UserLoggedInId" />
+    </div>
+</div>
+                    <!-- END LOGIN -->                    
+                    <!-- BEGIN COUNTY SELECTION -->
+                    
+                    <!-- END COUNTY SELECTION -->
+                    <!-- BEGIN HEADER SOCIAL MEDIA -->
+                     
+                    <!-- END HEADER SOCIAL MEDIA -->
+                    <!-- BEGIN SEARCH -->
+                    
+                    
+                    <!-- END SEARCH -->
+                    <!-- BEGIN SELECT REGION -->
+                    <!-- TODO: VH code behind -->
+                    <select name="ctl00$ctl00$ctl05" class="regionDDL">
+	<option value="Select a Region">Select a Region</option>
+	<option value="Adirondack Watertown Plattsburgh Area">Adirondack Watertown Plattsburgh Area</option>
+	<option value="Capital Region Albany Saratoga Area">Capital Region Albany Saratoga Area</option>
+	<option value="Central Syracuse Utica Area  ">Central Syracuse Utica Area  </option>
+	<option value="Connecticut">Connecticut</option>
+	<option value="Finger Lakes Rochester Area">Finger Lakes Rochester Area</option>
+	<option value="Hudson Valley Catskill Area">Hudson Valley Catskill Area</option>
+	<option value="Long Island Area">Long Island Area</option>
+	<option value="New Jersey">New Jersey</option>
+	<option value="New York City Area">New York City Area</option>
+	<option value="New York Statewide">New York Statewide</option>
+	<option value="Southern Tier Homell Elmira Binghamton Area">Southern Tier Homell Elmira Binghamton Area</option>
+
+</select>
+                    <!-- END SELECT REGION -->
+                    <!-- BEGIN HEADER NAVIGATION -->
+                    
+
+<div id="ctl00_ctl00_HeaderNavControl1_Container" class="IBI_ATIS_PublicWeb_Controls_HeaderNavControl_HeaderNavControl">
+    
+            <ul>
+        
+            <li>
+                <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_ItemHyperLink" title="Traffic" class="traffic_default_aspx selected" href="default.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_TextLabel" class="text">Traffic</span></a>
+                
+                        <div class="mask">
+                            <div class="background">
+                                <ul>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl01_ItemHyperLink" title="Click to see real time traffic map" class="traffic_map_aspx" href="map.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl01_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl01_TextLabel">Traffic Map</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl02_ItemHyperLink" title="Winter Road Conditions" class="traffic_winterroadconditions selected" href="winterroadconditions"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl02_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl02_TextLabel">Winter Road Conditions</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl03_ItemHyperLink" title="Incidents" class="traffic_incidents_aspx" href="incidents.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl03_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl03_TextLabel">Incidents</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl04_ItemHyperLink" title="Roadwork / Closures" class="traffic_road_closures_aspx" href="road_closures.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl04_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl04_TextLabel">Roadwork / Closures</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl05_ItemHyperLink" title="Real Time Traffic Messages" class="traffic_message_signs_aspx" href="message_signs.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl05_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl05_TextLabel">Message Signs</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl06_ItemHyperLink" title="Real Time Traffic Cameras" class="traffic_cameras_aspx" href="cameras.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl06_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl06_TextLabel">Cameras </span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl07_ItemHyperLink" title="Travel Times" class="traffic_time_speed_aspx" href="time_speed.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl07_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl01_HeaderSubnavRepeater_ctl07_TextLabel">Travel Times </span></a>
+                        </li>
+                    
+                                </ul>
+                            </div>
+                            <!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+                        </div>
+                    
+            </li>
+        
+            <li>
+                <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl02_ItemHyperLink" title="Transit" class="transit_default_aspx" href="../transit/default.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl02_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl02_TextLabel" class="text">Transit</span></a>
+                
+                        <div class="mask">
+                            <div class="background">
+                                <ul>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl02_HeaderSubnavRepeater_ctl01_ItemHyperLink" title="Statewide / Urban Public Transit Systems" class="transit_default_aspx#statewide" href="../transit/default.aspx#statewide"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl02_HeaderSubnavRepeater_ctl01_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl02_HeaderSubnavRepeater_ctl01_TextLabel">Statewide / Urban</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl02_HeaderSubnavRepeater_ctl02_ItemHyperLink" title="Regional Urban Public Transit Systems" class="transit_regional_aspx" href="../transit/regional.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl02_HeaderSubnavRepeater_ctl02_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl02_HeaderSubnavRepeater_ctl02_TextLabel">Regional Urban Public Transit</span></a>
+                        </li>
+                    
+                                </ul>
+                            </div>
+                            <!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+                        </div>
+                    
+            </li>
+        
+            <li>
+                <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_ItemHyperLink" title="Travel Services" class="travel_services_default_aspx" href="../travel_services/default.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_TextLabel" class="text">Travel Services</span></a>
+                
+                        <div class="mask">
+                            <div class="background">
+                                <ul>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl01_ItemHyperLink" title="Modes of Travel" class="travel_services_default_aspx#modesoftravel" href="../travel_services/default.aspx#modesoftravel"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl01_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl01_TextLabel">Modes of Travel</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl02_ItemHyperLink" title="Travel Assistance" class="travel_services_default_aspx#travelassistance" href="../travel_services/default.aspx#travelassistance"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl02_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl02_TextLabel">Travel Assistance</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl03_ItemHyperLink" title="Construction Information" class="travel_services_default_aspx#construction_information" href="../travel_services/default.aspx#construction_information"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl03_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl03_TextLabel">Construction Information</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl04_ItemHyperLink" title="Weather" class="travel_services_default_aspx#weather" href="../travel_services/default.aspx#weather"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl04_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl04_TextLabel">Weather</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl05_ItemHyperLink" title="Safety and Emergency Information" class="travel_services_default_aspx#safety" href="../travel_services/default.aspx#safety"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl05_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl05_TextLabel">Safety and Emergency Info</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl06_ItemHyperLink" title="Major Events and Tourism" class="travel_services_default_aspx#events" href="../travel_services/default.aspx#events"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl06_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl06_TextLabel">Major Events and Tourism</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl07_ItemHyperLink" title="Out of State" class="travel_services_default_aspx#outofstate" href="../travel_services/default.aspx#outofstate"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl07_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl07_TextLabel">Out of State</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl08_ItemHyperLink" title="Neighboring 511 Websites" class="travel_services_default_aspx#neighboringsites" href="../travel_services/default.aspx#neighboringsites"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl08_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl03_HeaderSubnavRepeater_ctl08_TextLabel">Neighboring 511 Websites</span></a>
+                        </li>
+                    
+                                </ul>
+                            </div>
+                            <!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+                        </div>
+                    
+            </li>
+        
+            <li>
+                <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl04_ItemHyperLink" title="Extras" class="extras_default_aspx" href="../extras/default.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl04_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl04_TextLabel" class="text">Extras</span></a>
+                
+                        <div class="mask">
+                            <div class="background">
+                                <ul>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl04_HeaderSubnavRepeater_ctl01_ItemHyperLink" title="Developer Portal" class="extras_developer_login_aspx" href="../extras/developer/login.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl04_HeaderSubnavRepeater_ctl01_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl04_HeaderSubnavRepeater_ctl01_TextLabel">Developer Portal</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl04_HeaderSubnavRepeater_ctl02_ItemHyperLink" title="Downloads" class="extras_downloads_aspx" href="../extras/downloads.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl04_HeaderSubnavRepeater_ctl02_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl04_HeaderSubnavRepeater_ctl02_TextLabel">Downloads</span></a>
+                        </li>
+                    
+                                </ul>
+                            </div>
+                            <!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+                        </div>
+                    
+            </li>
+        
+            
+        
+            
+        
+            <li>
+                <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_ItemHyperLink" title="My 511WI" class="my511wi_default_aspx" href="../my511wi/default.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_TextLabel" class="text">My 511WI</span></a>
+                
+                        <div class="mask">
+                            <div class="background">
+                                <ul>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_HeaderSubnavRepeater_ctl01_ItemHyperLink" title="Manage My 511WI" class="my511wi_managemytraffic_aspx" href="../my511wi/managemytraffic.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_HeaderSubnavRepeater_ctl01_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_HeaderSubnavRepeater_ctl01_TextLabel">Manage My 511WI</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_HeaderSubnavRepeater_ctl02_ItemHyperLink" title="My 511WI Profile" class="my511wi_myprofile_aspx" href="../my511wi/myprofile.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_HeaderSubnavRepeater_ctl02_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_HeaderSubnavRepeater_ctl02_TextLabel">My 511WI Profile</span></a>
+                        </li>
+                    
+                        <li>
+                            <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_HeaderSubnavRepeater_ctl03_ItemHyperLink" title="My 511WI Preferences" class="my511wi_mywebsitepreferences_aspx" href="../my511wi/mywebsitepreferences.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_HeaderSubnavRepeater_ctl03_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl07_HeaderSubnavRepeater_ctl03_TextLabel">My 511WI Preferences</span></a>
+                        </li>
+                    
+                                </ul>
+                            </div>
+                            <!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+                        </div>
+                    
+            </li>
+        
+            <li>
+                <a id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl08_ItemHyperLink" title="511 Projects" class="511projects_default_aspx" href="../511projects/default.aspx"><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl08_ImageLabel" class="image pngBackgroundCrop">&nbsp;</span><span id="ctl00_ctl00_HeaderNavControl1_HeaderNavRepeater_ctl08_TextLabel" class="text">511 Projects</span></a>
+                
+                        <div class="mask">
+                            <div class="background">
+                                <ul>
+                    
+                        
+                    
+                                </ul>
+                            </div>
+                            <!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+                        </div>
+                    
+            </li>
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            </ul>
+        
+</div>
+                    <!-- END HEADER NAVIGATION -->
+                </div>
+                <div id="PrintHeaderDiv">
+                    <!-- BEGIN PRINT LOGO -->
+                    <div id="ctl00_ctl00_PrintLogoPanel" class="logo">
+	
+                        <img id="ctl00_ctl00_logoPrinterFriendly" class="logoPrinterFriendly" src="../App_Themes/WisconsinTheme/images/logoPF.gif" alt="Logo" style="border-width:0px;" />
+                        <span id="ctl00_ctl00_PrintLogoLabel">Logo</span>
+                    
+</div>
+                    <!-- END PRINT LOGO -->
+                </div>
+                <div id="HeaderShadowDiv">
+                    <div id="HeaderShadowLeftDiv">
+                        <a id="ctl00_ctl00_HomeHyperLink" title="Click to go to the home page." href="../default.aspx">Home</a>
+                        &nbsp;|&nbsp;
+                        
+                        <a id="ctl00_ctl00_HelpHyperLink" title="Click for help information about the current page, or about the site in general." href="../help.aspx?helpPath=~/traffic/winterroadconditions">Help | </a>
+                     
+                        
+                       
+                        <a id="ctl00_ctl00_FaqHyperLink" href="../faq.aspx">FAQ</a>
+                    </div>
+                    <div id="HeaderShadowRightDiv">
+                        <a id="ctl00_ctl00_PrinterFriendlyHyperLink" title="Click to see a printer-friendly version of this page." href="/Web/traffic/winterroadconditions?print=true"><span id="ctl00_ctl00_HeaderPrinterFriendlyLabel">Printer-Friendly</span></a>
+                    </div>
+                    <!-- BEGIN ALERT ROTATOR CONTROL -->
+                    
+
+<div id="ctl00_ctl00_AlertRotatorControl1_Container" class="IBI_ATIS_PublicWeb_Controls_AlertRotatorControl_AlertRotatorControl">
+    <a id="ctl00_ctl00_AlertRotatorControl1_AlertsHyperLink" title="Click to see a list of alerts." href="../alerts.aspx" target="_top">Alerts</a>
+    
+    <div id="ctl00_ctl00_AlertRotatorControl1_horizontalScroll">
+        <div class='marquee'>
+    <div class='marquee-text'>
+    </div>
+</div>
+    </div>
+</div>
+                    <!-- END ALERT ROTATOR CONTROL -->
+                </div>
+                <div id="BodyDiv">
+                    
+    <div id="Content2ColumnDiv">
+        <div id="Content2ColumnInnerDiv">
+            <div id="ContentColumn2Of2Div">
+                <div id="ContentColumn2Of2InnerDiv">
+                    <div id="ctl00_ctl00_ContentPlaceHolder_ValidationSummary1" class="error" style="display:none;">
+
+</div>
+                    
+    
+    <div id="ContentDiv">
+        <div id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ContentControl1_Container" class="contentContainer IBI_ATIS_PublicWeb_Controls_ContentControl_ContentControl">
+    
+    
+            <div id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ContentControl1_ContentRepeater_ctl00_ItemPanel" class="contentSection firstContentSection">
+	
+                <h1>Winter Road Conditions</h1>
+
+            
+</div>
+        
+</div>
+    </div>
+
+	<div id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ContentUpdateProgress" style="display:none;">
+	
+			<div style="background-color: #fff; padding: 0.5em; border: 1px solid #000; position: absolute; left: 665px; z-index: 301; width: 100px; text-align: center;">
+				<img id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_Image1" src="../images/LoadingSmall.gif" alt="Loading..." style="border-width:0px;" />
+				Loading...	
+			</div>
+		
+</div>
+
+    <h6 class="slim">
+		Options Select
+	</h6>
+    <div id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ContentUpdatePanel">
+	
+            <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_Timer1" style="visibility:hidden;display:none;"></span>
+		    <div class="fade40 gridFilters">
+                <select name="ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$RegionDropDownList" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$RegionDropDownList\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_RegionDropDownList" autocomplete="off">
+		<option selected="selected" value="">All Counties</option>
+		<option value="Ashland">Ashland</option>
+		<option value="Barron">Barron</option>
+		<option value="Bayfield">Bayfield</option>
+		<option value="Brown">Brown</option>
+		<option value="Burnett">Burnett</option>
+		<option value="Chippewa">Chippewa</option>
+		<option value="Clark">Clark</option>
+		<option value="Columbia">Columbia</option>
+		<option value="Dane">Dane</option>
+		<option value="Dodge">Dodge</option>
+		<option value="Door">Door</option>
+		<option value="Douglas">Douglas</option>
+		<option value="Dunn">Dunn</option>
+		<option value="Eau Claire">Eau Claire</option>
+		<option value="Florence">Florence</option>
+		<option value="Fond Du Lac">Fond Du Lac</option>
+		<option value="Forest">Forest</option>
+		<option value="Grant">Grant</option>
+		<option value="Iowa">Iowa</option>
+		<option value="Iron">Iron</option>
+		<option value="Jackson">Jackson</option>
+		<option value="Jefferson">Jefferson</option>
+		<option value="Juneau">Juneau</option>
+		<option value="Kenosha">Kenosha</option>
+		<option value="La Crosse">La Crosse</option>
+		<option value="Langlade">Langlade</option>
+		<option value="Lincoln">Lincoln</option>
+		<option value="Manitowoc">Manitowoc</option>
+		<option value="Marathon">Marathon</option>
+		<option value="Marinette">Marinette</option>
+		<option value="Milwaukee">Milwaukee</option>
+		<option value="Monroe">Monroe</option>
+		<option value="Oconto">Oconto</option>
+		<option value="Oneida">Oneida</option>
+		<option value="Outagamie">Outagamie</option>
+		<option value="Ozaukee">Ozaukee</option>
+		<option value="Polk">Polk</option>
+		<option value="Portage">Portage</option>
+		<option value="Price">Price</option>
+		<option value="Racine">Racine</option>
+		<option value="Richland">Richland</option>
+		<option value="Rock">Rock</option>
+		<option value="Rusk">Rusk</option>
+		<option value="Sauk">Sauk</option>
+		<option value="Sawyer">Sawyer</option>
+		<option value="Shawano">Shawano</option>
+		<option value="Sheboygan">Sheboygan</option>
+		<option value="St. Croix">St. Croix</option>
+		<option value="Taylor">Taylor</option>
+		<option value="Trempealeau">Trempealeau</option>
+		<option value="Vernon">Vernon</option>
+		<option value="Vilas">Vilas</option>
+		<option value="Walworth">Walworth</option>
+		<option value="Washburn">Washburn</option>
+		<option value="Washington">Washington</option>
+		<option value="Waukesha">Waukesha</option>
+		<option value="Waupaca">Waupaca</option>
+		<option value="Waushara">Waushara</option>
+		<option value="Winnebago">Winnebago</option>
+		<option value="Wood">Wood</option>
+
+	</select>
+                <select name="ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$RoadwayDropDownList" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$RoadwayDropDownList\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_RoadwayDropDownList" autocomplete="off">
+		<option selected="selected" value="">All Highways</option>
+		<option value="I-39/I-90">I-39/I-90</option>
+		<option value="I-39/I-90/I-94">I-39/I-90/I-94</option>
+		<option value="I-39/US 51">I-39/US 51</option>
+		<option value="I-41">I-41</option>
+		<option value="I-41/I-94">I-41/I-94</option>
+		<option value="I-41/US 45">I-41/US 45</option>
+		<option value="I-43">I-43</option>
+		<option value="I-90">I-90</option>
+		<option value="I-90/I-94">I-90/I-94</option>
+		<option value="I-94">I-94</option>
+		<option value="I-794/WIS 794">I-794/WIS 794</option>
+		<option value="US 2">US 2</option>
+		<option value="US 2/US 53">US 2/US 53</option>
+		<option value="US 2/WIS 13">US 2/WIS 13</option>
+		<option value="US 8">US 8</option>
+		<option value="US 10">US 10</option>
+		<option value="US 12">US 12</option>
+		<option value="US 14">US 14</option>
+		<option value="US 41/US 141">US 41/US 141</option>
+		<option value="US 45">US 45</option>
+		<option value="US 45/WIS 32">US 45/WIS 32</option>
+		<option value="US 51">US 51</option>
+		<option value="US 53">US 53</option>
+		<option value="US 63">US 63</option>
+		<option value="US 141">US 141</option>
+		<option value="US 151">US 151</option>
+		<option value="WIS 13">WIS 13</option>
+		<option value="WIS 21">WIS 21</option>
+		<option value="WIS 23">WIS 23</option>
+		<option value="WIS 29">WIS 29</option>
+		<option value="WIS 35">WIS 35</option>
+		<option value="WIS 42">WIS 42</option>
+		<option value="WIS 57">WIS 57</option>
+		<option value="WIS 70">WIS 70</option>
+
+	</select>
+                
+		    </div>
+		    <div id="ListGrid">
+                <div style="width: 100%;">
+                    <div>
+		<table class="listGridView" cellspacing="0" cellpadding="0" border="0" id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView" style="border-collapse:collapse;">
+			<tr class="pager">
+				<td class="listPagerCell" colspan="5"><span>Previous</span><span>1</span><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView$ctl01$ctl02&#39;,&#39;&#39;)">2</a><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView$ctl01$ctl03&#39;,&#39;&#39;)">3</a><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView$ctl01$ctl04&#39;,&#39;&#39;)">4</a><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView$ctl01$ctl05&#39;,&#39;&#39;)">5</a><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView$ctl01$ctl06&#39;,&#39;&#39;)">Next</a></td>
+			</tr><tr>
+				<th scope="col" style="width:14%;"><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView&#39;,&#39;Sort$AdministrativeAreaName&#39;)">County</a></th><th scope="col" style="width:14%;"><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView&#39;,&#39;Sort$Roadway&#39;)">Highway</a></th><th scope="col" style="width:16%;"><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView&#39;,&#39;Sort$Location&#39;)">Location</a></th><th scope="col" style="width:16%;"><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView&#39;,&#39;Sort$Description&#39;)">Condition</a></th><th class="desc" scope="col" style="width:14%;"><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView&#39;,&#39;Sort$UpdatedSortOrder&#39;)">Update Time</a></th>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl03_CountyLabel">Waukesha</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl03_RoadwayLabel">I-94</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl03_LocationLabel">Between Brookfield and Oconomowoc</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl03_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl03_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl04_CountyLabel">Milwaukee</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl04_RoadwayLabel">I-94</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl04_LocationLabel">Between Milwaukee and Brookfield</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl04_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl04_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl05_CountyLabel">Kenosha</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl05_RoadwayLabel">I-41/I-94</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl05_LocationLabel">Between Illinois Line and Racine</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl05_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl05_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl06_CountyLabel">Washington</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl06_RoadwayLabel">I-41</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl06_LocationLabel">Between Richfield and Lomira</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl06_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl06_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl07_CountyLabel">Milwaukee</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl07_RoadwayLabel">I-43</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl07_LocationLabel">Between Milwaukee and Belgium</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl07_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl07_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl08_CountyLabel">Racine</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl08_RoadwayLabel">I-41/I-94</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl08_LocationLabel">Between Racine and Milwaukee</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl08_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl08_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl09_CountyLabel">Walworth</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl09_RoadwayLabel">I-43</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl09_LocationLabel">Between Darien and Mukwonago</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl09_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl09_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl10_CountyLabel">Waukesha</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl10_RoadwayLabel">I-43</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl10_LocationLabel">Between Mukwonago and Milwaukee</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl10_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl10_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl11_CountyLabel">Milwaukee</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl11_RoadwayLabel">I-794/WIS 794</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl11_LocationLabel">Between Milwaukee and Milwaukee</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl11_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl11_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl12_CountyLabel">Milwaukee</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl12_RoadwayLabel">I-41/US 45</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl12_LocationLabel">Between Milwaukee and Richfield</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl12_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl12_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl13_CountyLabel">Washington</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl13_RoadwayLabel">US 45</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl13_LocationLabel">Between Richfield and West Bend</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl13_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl13_UpdatedLabel">7:15am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl14_CountyLabel">Columbia</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl14_RoadwayLabel">I-90/I-94</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl14_LocationLabel">Between Portage and Wisconsin Dells</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl14_DescriptionLabel">Snow Covered<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl14_UpdatedLabel">6:06am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl15_CountyLabel">Dane</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl15_RoadwayLabel">I-39/I-90/I-94</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl15_LocationLabel">Between Madison and Portage</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl15_DescriptionLabel">Snow Covered<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl15_UpdatedLabel">6:06am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl16_CountyLabel">Richland</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl16_RoadwayLabel">US 14</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl16_LocationLabel">Between Lone Rock and Readstown</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl16_DescriptionLabel">Good Winter Driving<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl16_UpdatedLabel">4:58am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl17_CountyLabel">Monroe</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl17_RoadwayLabel">I-90</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl17_LocationLabel">Between Tomah and La Crosse</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl17_DescriptionLabel">Good Winter Driving<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl17_UpdatedLabel">4:58am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl18_CountyLabel">Vernon</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl18_RoadwayLabel">US 14</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl18_LocationLabel">Between Readstown and La Crosse</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl18_DescriptionLabel">Good Winter Driving<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl18_UpdatedLabel">4:58am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl19_CountyLabel">Grant</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl19_RoadwayLabel">US 151</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl19_LocationLabel">Between Dubuque and Dodgeville</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl19_DescriptionLabel">Good Winter Driving<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl19_UpdatedLabel">4:58am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl20_CountyLabel">La Crosse</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl20_RoadwayLabel">US 53</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl20_LocationLabel">Between La Crosse and Galesville</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl20_DescriptionLabel">Ice Covered<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl20_UpdatedLabel">4:58am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl21_CountyLabel">Juneau</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl21_RoadwayLabel">I-90/I-94</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl21_LocationLabel">Between Mauston and Tomah</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl21_DescriptionLabel">Good Winter Driving<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl21_UpdatedLabel">4:58am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl22_CountyLabel">Sauk</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl22_RoadwayLabel">I-90/I-94</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl22_LocationLabel">Between Wisconsin Dells and Mauston</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl22_DescriptionLabel">Good Winter Driving<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl22_UpdatedLabel">4:58am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl23_CountyLabel">Monroe</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl23_RoadwayLabel">I-94</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl23_LocationLabel">Between Tomah and Millston</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl23_DescriptionLabel">Good Winter Driving<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl23_UpdatedLabel">4:58am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl24_CountyLabel">Juneau</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl24_RoadwayLabel">WIS 21</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl24_LocationLabel">Between Necedah and Tomah</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl24_DescriptionLabel">Good Winter Driving<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl24_UpdatedLabel">4:58am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl25_CountyLabel">Marinette</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl25_RoadwayLabel">US 141</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl25_LocationLabel">Between Pound and Michigan Line</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl25_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl25_UpdatedLabel">4:55am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl26_CountyLabel">Fond Du Lac</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl26_RoadwayLabel">WIS 23</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl26_LocationLabel">Between Fond du Lac and Ripon</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl26_DescriptionLabel">Snow Covered<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl26_UpdatedLabel">4:55am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl27_CountyLabel">Fond Du Lac</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl27_RoadwayLabel">US 151</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl27_LocationLabel">Between Waupun and Fond du Lac</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl27_DescriptionLabel">Snow Covered<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl27_UpdatedLabel">4:55am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl28_CountyLabel">Door</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl28_RoadwayLabel">WIS 42</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl28_LocationLabel">Between Sturgeon Bay and Northport</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl28_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl28_UpdatedLabel">4:55am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl29_CountyLabel">Brown</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl29_RoadwayLabel">WIS 57</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl29_LocationLabel">Between Green Bay and Sturgeon Bay</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl29_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl29_UpdatedLabel">4:55am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl30_CountyLabel">Oconto</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl30_RoadwayLabel">US 141</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl30_LocationLabel">Between Abrams and Pound</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl30_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl30_UpdatedLabel">4:55am, <br>1/12/17</span>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl31_CountyLabel">Oconto</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl31_RoadwayLabel">I-41</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl31_LocationLabel">Between Abrams and Marinette</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl31_DescriptionLabel">Slippery Stretches<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl31_UpdatedLabel">4:55am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="evenItem">
+				<td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl32_CountyLabel">Fond Du Lac</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl32_RoadwayLabel">US 45</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl32_LocationLabel">Between Fond du Lac and Oshkosh</span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl32_DescriptionLabel">Snow Covered<br /></span>
+                                </td><td>
+                                    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ListGridView_ctl32_UpdatedLabel">4:55am, <br>1/12/17</span>
+                                </td>
+			</tr><tr class="pager">
+				<td class="listPagerCell" colspan="5"><span>Previous</span><span>1</span><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView$ctl34$ctl02&#39;,&#39;&#39;)">2</a><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView$ctl34$ctl03&#39;,&#39;&#39;)">3</a><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView$ctl34$ctl04&#39;,&#39;&#39;)">4</a><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView$ctl34$ctl05&#39;,&#39;&#39;)">5</a><a href="javascript:__doPostBack(&#39;ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$ListGridView$ctl34$ctl06&#39;,&#39;&#39;)">Next</a></td>
+			</tr>
+		</table>
+	</div>
+                </div>
+    		</div>
+		    <span id="ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_UpdatedLabel">Data last updated: 7:37am, 1/12/17</span>
+        
+</div>
+    
+
+                </div>
+            </div>
+            <div id="ContentColumn1Of2Div">
+                
+    <div id="ctl00_ctl00_ContentPlaceHolder_Column1PlaceHolder_BodyNavControl1_Container" class="IBI_ATIS_PublicWeb_Controls_BodyNavControl_BodyNavControl">
+    <h6 id="ctl00_ctl00_ContentPlaceHolder_Column1PlaceHolder_BodyNavControl1_HeaderH6">
+        Traffic Options
+    </h6>
+    
+            <ul class="gen1">
+        
+            <li class=''>
+                <a id="ctl00_ctl00_ContentPlaceHolder_Column1PlaceHolder_BodyNavControl1_Gen1Repeater_ctl01_ItemHyperLink" title="Click to see real time traffic map" href="map.aspx">Traffic Map</a>
+                
+            </li>
+        
+            <li class='selected'>
+                <a id="ctl00_ctl00_ContentPlaceHolder_Column1PlaceHolder_BodyNavControl1_Gen1Repeater_ctl02_ItemHyperLink" title="Winter Road Conditions" class=" selected" href="winterroadconditions">Winter Road Conditions</a>
+                
+                        <ul class="gen2">
+                    
+                        </ul>
+                    
+            </li>
+        
+            <li class=''>
+                <a id="ctl00_ctl00_ContentPlaceHolder_Column1PlaceHolder_BodyNavControl1_Gen1Repeater_ctl03_ItemHyperLink" title="Incidents" href="incidents.aspx">Incidents</a>
+                
+            </li>
+        
+            <li class=''>
+                <a id="ctl00_ctl00_ContentPlaceHolder_Column1PlaceHolder_BodyNavControl1_Gen1Repeater_ctl04_ItemHyperLink" title="Roadwork / Closures" href="road_closures.aspx">Roadwork / Closures</a>
+                
+            </li>
+        
+            <li class=''>
+                <a id="ctl00_ctl00_ContentPlaceHolder_Column1PlaceHolder_BodyNavControl1_Gen1Repeater_ctl05_ItemHyperLink" title="Real Time Traffic Messages" href="message_signs.aspx">Message Signs</a>
+                
+            </li>
+        
+            <li class=''>
+                <a id="ctl00_ctl00_ContentPlaceHolder_Column1PlaceHolder_BodyNavControl1_Gen1Repeater_ctl06_ItemHyperLink" title="Real Time Traffic Cameras" href="cameras.aspx">Cameras </a>
+                
+            </li>
+        
+            <li class=''>
+                <a id="ctl00_ctl00_ContentPlaceHolder_Column1PlaceHolder_BodyNavControl1_Gen1Repeater_ctl07_ItemHyperLink" title="Travel Times" href="time_speed.aspx">Travel Times </a>
+                
+            </li>
+        
+            </ul>
+            <div id="ctl00_ctl00_ContentPlaceHolder_Column1PlaceHolder_BodyNavControl1_Gen1Repeater_ctl08_BottomBarPanel" class="bottom">
+	&nbsp;
+</div>
+            
+        
+</div>
+
+    <div style="margin: 0 0 10px 10px; width: 180px; height: 150px;">
+        <div id='' style='width:180px; height:150px;'>
+                        <script type='text/javascript'>
+                            googletag.cmd.push(function() { googletag.display(''); });
+                        </script>
+                    </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+
+                    
+                </div>
+                <!-- BEGIN FOOTER CONTAINER -->
+                <div id="FooterDiv">
+                    <!-- BEGIN REGION SPECIFIC LOGO -->
+                     <div class="regionLogoContainer">
+                            <div id="ctl00_ctl00_regionLogo">
+
+</div>
+                        </div>
+                <!-- SOCIAL MEDIA-->
+                <div id="FooterSocialLinks">
+    <a href="https://www.youtube.com/user/wisdot" id="ctl00_ctl00_ctl08_youTubeAnchorLinkId" target="_blank"><span id="ctl00_ctl00_ctl08_youtubeIconSpan" class="youtubeIcon">&nbsp;</span></a> 
+        <a href="https://www.facebook.com/WisDOT" id="ctl00_ctl00_ctl08_facebookAnchorLinkId" target="_blank"><span id="ctl00_ctl00_ctl08_facebookIconSpan" class="facebookIcon">&nbsp;</span></a>
+    <!-- Link to twitter -->
+    <a href="https://twitter.com/511WI" id="ctl00_ctl00_ctl08_twitterAnchorLinkId"><span id="ctl00_ctl00_ctl08_twitterIconSpan" class="twitterIcon">&nbsp;</span></a> 
+        <a href="../RSSFeed.aspx" id="ctl00_ctl00_ctl08_rssAnchorLinkId"><span id="ctl00_ctl00_ctl08_rssIconSpan" class="rssIcon">&nbsp;</span></a>
+    <a href="https://itunes.apple.com/us/app/511-wisconsin/id969082710?mt=8" target="_blank"><span class="appStoreIcon">&nbsp;</span></a>
+    <a href="https://play.google.com/store/apps/details?id=com.nicusa.wisgo.android" target="_blank"><span class="googlePlayIcon">&nbsp;</span></a>
+</div>
+                <!-- FOOTER -->
+                    <div id="FooterNavTop">
+                        
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl00_HomeHyperLink" title="511WI provides traffic and transit information.  View live traffic map with travel times, traffic accident details, traffic cameras and other road conditions." href="../default.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl00_HomeLabel">Home</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl01_ItemHyperLink" title="Live traffic map, accidents,road conditions and traffic speeds." href="default.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl01_ItemLabel">Traffic</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl02_ItemHyperLink" title="Transit" href="../transit/default.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl02_ItemLabel">Transit</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl03_ItemHyperLink" title="Travel Services" href="../travel_services/default.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl03_ItemLabel">Travel Services</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl04_ItemHyperLink" title="Extras" href="../extras/default.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl04_ItemLabel">Extras</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl06_ItemHyperLink" title="IVR FAQ" href="../faq.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl06_ItemLabel">FAQ</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl07_ItemHyperLink" title="Find the best way to get around Wisconsin." href="../my511wi/default.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl07_ItemLabel">My 511WI</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl08_ItemHyperLink" title="Find the best way to get around Wisconsin." href="../511projects/default.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl08_ItemLabel">511 Projects</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl09_ItemHyperLink" title="Real-Time traffic including accidents, Road Conditions, Road Closures, and Traffic Cameras" href="../help.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl09_ItemLabel">Help</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl10_ItemHyperLink" title="Sitemap" href="../sitemap.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl10_ItemLabel">Sitemap</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl11_ItemHyperLink" title="Leave Feedback" href="../contact_us.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl11_ItemLabel">Leave Feedback</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl12_ItemHyperLink" title="Report Traffic Hazard" href="../report.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl12_ItemLabel">Report Traffic Hazard</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl13_ItemHyperLink" title="Privacy Policy" href="../privacy.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl13_ItemLabel">Privacy Policy</span></a>
+                            
+                                 | 
+                                <a id="ctl00_ctl00_FooterNavTopRepeater_ctl15_ItemHyperLink" title="Disclaimer" href="../disclaimer.aspx"><span id="ctl00_ctl00_FooterNavTopRepeater_ctl15_ItemLabel">Disclaimer</span></a>
+                            
+                    </div>
+                    <div id="FooterNavBottom">
+                        
+                    </div>
+                    <p>
+                        <span class="logo"></span>
+                        <span id="ctl00_ctl00_FooterLabel" class="footerLabel">© Copyright 2014 <a href="http://www.wisconsindot.gov/pages/home.aspx" target="_blank">Wisconsin Department of Transportation</a>.  All rights reserved.</span>
+                    </p>
+                      
+                        <!--Bottom Right Location Specific Logo-->
+                         <!--<div class="rightBottomContainer">
+                            <div id="ctl00_ctl00_RightBottomLogo">
+
+</div>
+                        </div>   -->
+                </div>
+                <!-- END FOOTER CONTAINER-->
+            </div>
+        </div>
+        <div id="ShadowBottomDiv">
+            &nbsp;
+        </div>
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ctl00_ctl00_ContentPlaceHolder_ValidationSummary1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+// <![CDATA[
+(
+  function()
+  {
+    /* IBI.ATIS.PublicWeb.Controls.HeaderNavControl.HeaderNavControl */var control = null;
+    dojo.require("IBI.CCL.Web.Serialization.JsonSerializer");
+    dojo.require("IBI.ATIS.PublicWeb.Controls.HeaderNavControl.HeaderNavControl");
+    dojo.addOnLoad
+    (
+      function()
+      {
+        if (control == null) control = new IBI.ATIS.PublicWeb.Controls.HeaderNavControl.HeaderNavControl(new IBI.CCL.Web.Serialization.JsonSerializer().deserialize("{\"ContainerID\":\"ctl00_ctl00_HeaderNavControl1_Container\"}"));
+      }
+    );
+    dojo.addOnUnload
+    (
+      function()
+      {
+        if (control != null)
+        {
+          if ("dispose" in control) control.dispose();
+          control = null;
+        }
+      }
+    );
+  }
+)();
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+(
+  function()
+  {
+    /* IBI.ATIS.PublicWeb.Controls.AlertRotatorControl.AlertRotatorControl */var control = null;
+    dojo.require("IBI.CCL.Web.Serialization.JsonSerializer");
+    dojo.require("IBI.ATIS.PublicWeb.Controls.AlertRotatorControl.AlertRotatorControl");
+    dojo.addOnLoad
+    (
+      function()
+      {
+        if (control == null) control = new IBI.ATIS.PublicWeb.Controls.AlertRotatorControl.AlertRotatorControl(new IBI.CCL.Web.Serialization.JsonSerializer().deserialize("{\"ContainerID\":\"ctl00_ctl00_AlertRotatorControl1_Container\",\"XhrUrl\":\"/web/PageDataService.asmx/GetAlerts\",\"Token\":\"38766a82efdde7276f432ac517a9091a\",\"Language\":\"en\",\"Filters\":\"path=%2fWeb%2ftraffic%2fwinterroadconditions\\u0026county=all\",\"EmptyDataMessage\":\"There are no alerts.\",\"Client\":\"WI511\",\"Data\":{\"ErrorCode\":0,\"ErrorMessage\":null,\"Payload\":[\"January 11th, LaCrosse County. Due to icing, rest area 31 on I-90 Eastbound near mile marker 1, will be closed until Thursday January 12th at 1 PM.\"]}}"));
+      }
+    );
+    dojo.addOnUnload
+    (
+      function()
+      {
+        if (control != null)
+        {
+          if ("dispose" in control) control.dispose();
+          control = null;
+        }
+      }
+    );
+  }
+)();
+// ]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+(function(id) {
+    var e = document.getElementById(id);
+    if (e) {
+        e.dispose = function() {
+            Array.remove(Page_ValidationSummaries, document.getElementById(id));
+        }
+        e = null;
+    }
+})('ctl00_ctl00_ContentPlaceHolder_ValidationSummary1');
+Sys.Application.add_init(function() {
+    $create(IBI.ATIS.Web.UI.WebControls.TextBoxWatermarkExtender, {"enabled":true,"watermarkCssClass":"watermarked","watermarkText":"Email"}, null, null, $get("ctl00_ctl00_LoginControl1_LoginUsernameText"));
+});
+Sys.Application.add_init(function() {
+    $create(IBI.ATIS.Web.UI.WebControls.TextBoxWatermarkExtender, {"enabled":true,"watermarkCssClass":"watermarked","watermarkText":"Password"}, null, null, $get("ctl00_ctl00_LoginControl1_LoginPasswordText"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ContentUpdatePanel","displayAfter":500,"dynamicLayout":true}, null, null, $get("ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_ContentUpdateProgress"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.UI._Timer, {"enabled":true,"interval":60000,"uniqueID":"ctl00$ctl00$ContentPlaceHolder$Column2PlaceHolder$Timer1"}, null, null, $get("ctl00_ctl00_ContentPlaceHolder_Column2PlaceHolder_Timer1"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
